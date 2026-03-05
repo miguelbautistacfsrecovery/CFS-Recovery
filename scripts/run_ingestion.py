@@ -38,7 +38,7 @@ def main():
     total += ingest_discord("data/discord")
 
     print("\n--- Recovery Playbook ---")
-    total += ingest_playbook("data/playbook/Recovery Playbook - JUNIOR DEVELOPMENT.txt")
+    total += ingest_playbook("data/playbook/Recovery Playbook - JUNIOR DEVELOPMENT copy.txt")
 
     print("\n--- Call Extractions ---")
     total += ingest_call_extractions("data/calls")

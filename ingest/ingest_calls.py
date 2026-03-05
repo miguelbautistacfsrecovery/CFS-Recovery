@@ -10,9 +10,12 @@ def ingest_call_extractions(data_dir: str = "data/calls"):
         print(f"Directory not found: {data_dir}")
         return 0
 
-    csv_files = list(calls_dir.glob("*.csv"))
+    # Search both top-level and subfolders for CSV files
+    csv_files = list(calls_dir.glob("*.csv")) + list(calls_dir.glob("**/*.csv"))
+    # Deduplicate
+    csv_files = list({str(f): f for f in csv_files}.values())
     if not csv_files:
-        print(f"No .csv files found in {data_dir}")
+        print(f"No .csv files found in {data_dir} or its subfolders")
         return 0
 
     total_chunks = 0
