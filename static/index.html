@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Thriver AI | CFS Recovery</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <!-- Landing Screen -->
+    <div id="screen-landing" class="screen active">
+        <div class="landing-container">
+            <div class="landing-logo">
+                <div class="logo-icon">
+                    <svg width="40" height="40" viewBox="0 0 40 40" fill="none">
+                        <circle cx="20" cy="8" r="4" fill="var(--brand-blue-light)"/>
+                        <path d="M12 36 C12 24 16 18 20 14 C24 18 28 24 28 36" stroke="var(--brand-blue-light)" stroke-width="3" fill="none" stroke-linecap="round"/>
+                        <path d="M8 28 C12 22 16 20 20 14" stroke="var(--brand-blue)" stroke-width="2.5" fill="none" stroke-linecap="round" opacity="0.6"/>
+                    </svg>
+                </div>
+                <h1 class="landing-title">THRIVER AI</h1>
+                <p class="landing-tagline">GO FROM SURVIVING TO THRIVING</p>
+            </div>
+
+            <p class="landing-description">
+                Your 24/7 CFS recovery knowledge assistant. Ask questions about symptoms, pacing, nervous system regulation, and your path to recovery.
+            </p>
+
+            <div class="landing-features">
+                <div class="feature">Trained on hundreds of hours of recovery coaching</div>
+                <div class="feature">Understands CFS, long COVID, and fibromyalgia</div>
+                <div class="feature">Available anytime you need guidance</div>
+            </div>
+
+            <div class="signup-form">
+                <input type="email" id="email-input" class="input" placeholder="Enter your email to start" autocomplete="email">
+                <button id="signup-btn" class="btn-primary" onclick="handleSignup()">Start 3-Day Free Trial</button>
+                <p class="signup-note">No credit card required. $7/month after trial.</p>
+            </div>
+
+            <p class="landing-disclaimer">
+                Thriver AI is an educational tool, not a medical professional. Nothing here is medical advice. Always consult your healthcare provider for medical decisions.
+            </p>
+        </div>
+    </div>
+
+    <!-- Trial Expired Screen -->
+    <div id="screen-expired" class="screen">
+        <div class="expired-container">
+            <div class="logo-icon small">
+                <svg width="32" height="32" viewBox="0 0 40 40" fill="none">
+                    <circle cx="20" cy="8" r="4" fill="var(--brand-blue-light)"/>
+                    <path d="M12 36 C12 24 16 18 20 14 C24 18 28 24 28 36" stroke="var(--brand-blue-light)" stroke-width="3" fill="none" stroke-linecap="round"/>
+                </svg>
+            </div>
+            <h2>Your free trial has ended</h2>
+            <p>Subscribe for $7/month to keep using Thriver AI and continue your recovery training.</p>
+            <button class="btn-primary" onclick="handleSubscribe()">Subscribe - $7/month</button>
+            <p class="signup-note">Cancel anytime. Your recovery matters.</p>
+        </div>
+    </div>
+
+    <!-- Chat Screen -->
+    <div id="screen-chat" class="screen">
+        <header class="chat-header">
+            <div class="header-left">
+                <span class="header-logo">THRIVER AI</span>
+            </div>
+            <div class="header-right">
+                <span id="credit-tracker" class="credit-tracker" style="display:none"></span>
+            </div>
+        </header>
+
+        <div class="disclaimer-bar">
+            This is an educational tool, not medical advice. Always consult your healthcare provider.
+        </div>
+
+        <div id="chat-messages" class="chat-messages">
+            <div class="message assistant">
+                <div class="message-content">
+                    Hi there. I'm Thriver AI, your CFS recovery knowledge assistant.
+
+                    I'm trained on hundreds of hours of recovery coaching to help you understand your symptoms, learn about nervous system regulation, and find your path forward.
+
+                    What would you like to know about?
+                </div>
+            </div>
+        </div>
+
+        <div id="daily-limit-banner" class="limit-banner hidden">
+            <p>Please come back tomorrow to continue your recovery training.</p>
+            <a href="https://www.cfsrecovery.co/apply" target="_blank" class="upsell-link">Want personalized support? Learn about our Recovery System</a>
+        </div>
+
+        <div id="chat-input-area" class="chat-input-area">
+            <textarea id="chat-input" class="chat-input" placeholder="Ask about your recovery..." rows="1" onkeydown="handleKeydown(event)"></textarea>
+            <button id="send-btn" class="send-btn" onclick="sendMessage()">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <line x1="22" y1="2" x2="11" y2="13"></line>
+                    <polygon points="22 2 15 22 11 13 2 9 22 2"></polygon>
+                </svg>
+            </button>
+        </div>
+    </div>
+
+    <script src="/static/chat.js"></script>
+</body>
+</html>
