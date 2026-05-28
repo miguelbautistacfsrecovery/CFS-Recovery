@@ -2,140 +2,171 @@
 
 **Account:** CFS Recovery 2025 (act_1453947942454385)
 **Currency:** CAD
-**Period:** Last 90 Days (Feb 27 – May 28, 2026)
-**Total Spend:** ~$33,292 CAD
+**Date:** May 28, 2026
 
 ---
 
-## Account Summary
+## Account Snapshot (3 Time Windows)
 
-| Metric | Value |
-|--------|-------|
-| Total Spend | $33,292 CAD |
-| Total Impressions | 12.5M |
-| Total Reach | 1.7M |
-| Total Clicks (all) | 101K |
-| Total Link Clicks | 73,218 |
-| Avg CPC (all) | $0.33 |
-| Avg CPM | $2.66 |
-| Avg CTR (all) | 0.81% |
-| Custom Conversions | 6 total |
-
----
-
-## Campaign Breakdown (Sorted by Spend)
-
-### ACTIVE Campaigns
-
-| Campaign | Objective | Spend | Impressions | Reach | Link Clicks | CPC | CPM | CTR | Frequency |
-|----------|-----------|-------|-------------|-------|-------------|-----|-----|-----|-----------|
-| Venus Flytrap - 1 - Authority Ad | Engagement | $12,918 | 5.07M | 496K | 48 | $0.98 | $2.55 | 0.26% | **10.22** |
-| Hammer Them - 2 - Short Form | Engagement | $9,936 | 3.34M | 287K | 202 | $0.98 | $2.97 | 0.30% | **11.63** |
-| Hammer Them - 3 - Social Proof Videos | Engagement | $1,962 | 859K | 185K | 2 | $1.01 | $2.28 | 0.23% | 4.63 |
-| Venus Flytrap - 1 - Educational | Traffic | $1,911 | 981K | 492K | 59,679 | $0.03 | $1.95 | 6.14% | 1.99 |
-| Hammer Them - 3 - Carousels | Awareness | $830 | 1.64M | 102K | 668 | $0.60 | $0.51 | 0.08% | **16.06** |
-
-### PAUSED Campaigns
-
-| Campaign | Objective | Spend | Impressions | Link Clicks | CPC (link) | ROAS | Frequency |
-|----------|-----------|-------|-------------|-------------|------------|------|-----------|
-| Level 3 - Book a Call (Submitted Apps) | Leads | $1,322 | 127K | 4,653 | $0.30 | 0.67 | **15.95** |
-| C5b - Academy FreeTrial_CBO | Sales | $1,309 | 166K | 1,105 | $0.79 | 0.36 | 3.87 |
-| MOF - Leadform Optins [April 2026] | Leads | $1,229 | 48K | 1,082 | $0.56 | 0.51 | 4.12 |
-| C5 - Academy Retargeting | Sales | $894 | 97K | 384 | $1.34 | 0.07 | 4.31 |
-| VIRTUAL EVENTS - Organic Retargeting | Sales | $580 | 71K | 1,688 | $0.34 | 0.71 | 3.02 |
-| MOF - IG Retargeting - Social Proof | Leads | $149 | 22K | 1,249 | $0.13 | **7.17** | 2.28 |
-| TOF - IG Profile Visit - Awareness | Traffic | $134 | 48K | 2,458 | $0.06 | — | 1.12 |
-| Hammer Them - 2 - Long Form | Engagement | $117 | 1.3K | — | $4.50 | — | 11.46 |
+| Metric | Last 30 Days | Last 7 Days | Last 3 Days |
+|--------|-------------|-------------|-------------|
+| **Total Spend** | $15,426 | $3,311 | $1,346 |
+| **Impressions** | 6.8M | 1.6M | 633K |
+| **Reach** | 1.06M | 433K | 213K |
+| **Clicks (all)** | 56K | 12.8K | 4.9K |
+| **Link Clicks** | 44,348 | 9,691 | 3,977 |
+| **Avg CPM** | $2.27 | $2.04 | $2.13 |
+| **Avg CPC (all)** | $0.28 | $0.26 | $0.27 |
+| **Custom Conversions** | **3** | **0** | **0** |
+| **Daily Burn Rate** | ~$514/day | ~$473/day | ~$449/day |
+| Active Campaigns | 5 | 5 | 5 |
 
 ---
 
-## Custom Conversions (Last 90 Days)
+## Last 30 Days — Campaign Breakdown
 
-| Campaign | Submitted App ($300) | Submitted App ($1K/$5K) | $27 Blueprint Purchase | Cost per Purchase |
-|----------|---------------------|------------------------|----------------------|-------------------|
-| Hammer Them - 2 - Long Form | 1 @ $116.89 | 1 @ $116.89 | — | — |
-| MOF - IG Retargeting - Social Proof | — | — | 2 | $74.57 |
-| MOF - Leadform Optins | — | — | 2 | $614.39 |
-| C5b - Academy FreeTrial_CBO | — | — | 1 | $1,308.62 |
-| **All Other Campaigns** | **0** | **0** | **0** | **—** |
+### Currently Active (spending right now)
 
-**Total Conversions: 2 app submissions + 5 blueprint purchases = 7 conversions on $33K spend**
+| Campaign | Objective | Spend | Impressions | Reach | Link Clicks | CPC | CPM | Link CTR | Frequency |
+|----------|-----------|-------|-------------|-------|-------------|-----|-----|----------|-----------|
+| Venus Flytrap - Authority Ad | Engagement | $5,124 | 1.94M | 315K | 17 | $1.01 | $2.64 | 0% | **6.17** |
+| Hammer Them - Short Form | Engagement | $4,967 | 2.06M | 212K | 150 | $0.84 | $2.41 | 0.01% | **9.69** |
+| Venus Flytrap - Educational | Traffic | $1,314 | 661K | 350K | 41,809 | $0.03 | $1.99 | 6.32% | 1.89 |
+| Hammer Them - Social Proof Videos | Engagement | $1,212 | 458K | 38K | 1 | $1.68 | $2.65 | 0% | **11.96** |
+| Hammer Them - Carousels | Awareness | $745 | 1.48M | 96K | 598 | $0.60 | $0.50 | 0.04% | **15.45** |
+
+### Paused (spent earlier in the 30-day window)
+
+| Campaign | Objective | Spend | Impressions | Link Clicks | ROAS | Frequency |
+|----------|-----------|-------|-------------|-------------|------|-----------|
+| C5b - Academy FreeTrial_CBO | Sales | $1,309 | 166K | 1,105 | 0.36 | 3.87 |
+| MOF - Leadform Optins [April 2026] | Leads | $754 | 34K | 668 | 0.77 | 3.49 |
+| C5 - Academy Retargeting | Sales | $0 | — | — | — | — |
+| MOF - IG Retargeting Social Proof | Leads | $0 | — | — | — | — |
 
 ---
 
-## Critical Issues Identified
+## Last 7 Days — Campaign Breakdown
 
-### 1. Severe Ad Fatigue on Top Spenders
-The three highest-spending campaigns show extreme frequency:
-- **Venus Flytrap Authority Ad**: 10.22x frequency — people seeing it 10+ times
-- **Hammer Them Short Form**: 11.63x frequency — same issue
-- **Hammer Them Carousels**: 16.06x frequency — worst offender
-- **Level 3 - Book a Call**: 15.95x frequency
+| Campaign | Spend | Impressions | Reach | Link Clicks | CPC | CPM | Link CTR | Frequency |
+|----------|-------|-------------|-------|-------------|-----|-----|----------|-----------|
+| Hammer Them - Short Form | $1,364 | 584K | 122K | 18 | $0.82 | $2.34 | 0% | 4.79 |
+| Venus Flytrap - Authority Ad | $1,118 | 432K | 131K | 3 | $0.98 | $2.59 | 0% | 3.29 |
+| Hammer Them - Social Proof Videos | $335 | 104K | 28K | 0 | $1.93 | $3.20 | 0% | 3.74 |
+| Venus Flytrap - Educational | $323 | 147K | 103K | 9,530 | $0.03 | $2.21 | 6.50% | 1.42 |
+| Hammer Them - Carousels | $171 | 350K | 48K | 140 | $0.59 | $0.49 | 0.04% | 7.25 |
+| **Totals** | **$3,311** | **1.6M** | **433K** | **9,691** | — | — | — | — |
 
-**Impact:** Each person in these audiences has seen the ad 10-16 times. After 3-5 exposures, engagement drops sharply and costs rise. This is burning budget on oversaturated audiences.
+**Conversions (last 7 days): ZERO** — no app submissions, no blueprint purchases, no call bookings.
 
-### 2. Top-of-Funnel Spending with No Conversion Path
-- **$25,646 (77% of budget)** is going to Engagement/Awareness campaigns (Venus Flytrap + Hammer Them)
-- These campaigns generated **48 + 202 + 2 + 668 = 920 link clicks** total on $25,646 in spend
-- **Cost per link click on engagement campaigns: $27.88** — because the objective isn't link clicks
-- **Zero conversions** from the top 3 spenders
+---
 
-### 3. Best Performer Was Paused
-- **MOF - IG Retargeting - Social Proof** had the best metrics across the board:
-  - ROAS: **7.17** (only campaign above 1.0 besides Hammer Them Short Form at 1.02)
-  - CPC: **$0.13** (cheapest)
-  - Link CTR: **5.74%** (highest)
-  - 2 blueprint purchases at **$74.57 each** (best cost per conversion)
-  - Frequency: **2.28** (healthy)
-- **This campaign was paused despite being the clear winner**
+## Last 3 Days — Campaign Breakdown
 
-### 4. Sales Campaigns Underperforming
-- **C5 - Academy Retargeting**: ROAS of 0.07 — spending $894 to generate $64 in value
-- **C5b - Academy FreeTrial_CBO**: ROAS of 0.36 — 1 blueprint purchase cost $1,308.62
-- **VIRTUAL EVENTS - Organic Retargeting**: ROAS of 0.71 — close but still negative
+| Campaign | Spend | Impressions | Reach | Link Clicks | CPC | CPM | Link CTR | Frequency |
+|----------|-------|-------------|-------|-------------|-----|-----|----------|-----------|
+| Hammer Them - Short Form | $557 | 226K | 64K | 8 | $1.04 | $2.46 | 0% | 3.54 |
+| Venus Flytrap - Authority Ad | $453 | 168K | 55K | 1 | $1.22 | $2.70 | 0% | 3.02 |
+| Hammer Them - Social Proof Videos | $137 | 41K | 19K | 0 | $2.18 | $3.37 | 0% | 2.14 |
+| Venus Flytrap - Educational | $129 | 54K | 41K | 3,920 | $0.03 | $2.40 | 7.29% | 1.32 |
+| Hammer Them - Carousels | $70 | 144K | 34K | 48 | $0.66 | $0.49 | 0.03% | 4.26 |
+| **Totals** | **$1,346** | **633K** | **213K** | **3,977** | — | — | — | — |
 
-### 5. Educational Traffic Campaign is a Hidden Gem
-- **Venus Flytrap - Educational (Traffic)**: 59,679 link clicks at $0.03 CPC, 6.14% CTR
-- This is exceptional traffic performance but generates **zero tracked conversions**
-- Likely missing proper conversion tracking or no landing page optimization
+**Conversions (last 3 days): ZERO**
+
+---
+
+## Custom Conversions — Last 30 Days
+
+| Campaign | $27 Blueprint Purchase | Cost per Purchase | App Submissions | Calls Scheduled |
+|----------|----------------------|-------------------|----------------|-----------------|
+| MOF - Leadform Optins | 2 | $376.95 | 0 | 0 |
+| C5b - Academy FreeTrial | 1 | $1,308.62 | 0 | 0 |
+| All other campaigns | 0 | — | 0 | 0 |
+| **Total** | **3** | **$820.84 avg** | **0** | **0** |
+
+Both campaigns that generated conversions are now **paused**.
+
+---
+
+## Trend Analysis — Performance Direction
+
+| Metric | 30-Day Avg/Day | 7-Day Avg/Day | 3-Day Avg/Day | Trend |
+|--------|----------------|---------------|---------------|-------|
+| Spend | $514 | $473 | $449 | Declining slightly |
+| Impressions | 227K | 231K | 211K | Stable |
+| Link Clicks | 1,478 | 1,384 | 1,326 | Declining |
+| CPC (engagement) | $0.84-$1.68 | $0.82-$1.93 | $1.04-$2.18 | **Rising** |
+| CPC (traffic) | $0.03 | $0.03 | $0.03 | Stable |
+| Conversions | 0.1/day | 0/day | 0/day | **Dead** |
+
+**CPC on engagement campaigns is trending up** — a classic sign of ad fatigue + audience saturation.
+
+---
+
+## Critical Issues
+
+### 1. Zero Conversions in the Last 7+ Days
+You've spent **$3,311 in the past week with zero measurable conversions**. No app submissions, no blueprint purchases, no calls booked. The only 3 conversions in the last 30 days came from campaigns that are now paused.
+
+### 2. $10,091 (65%) Spent on Engagement with Near-Zero Link Clicks
+The top 3 engagement campaigns in the last 30 days:
+- **Venus Flytrap Authority Ad**: $5,124 spent → **17 link clicks** ($301 per link click)
+- **Hammer Them Short Form**: $4,967 spent → **150 link clicks** ($33 per link click)
+- **Hammer Them Social Proof Videos**: $1,212 spent → **1 link click** ($1,212 per link click)
+
+These campaigns drive impressions and video views but almost nobody clicks through to your site.
+
+### 3. Ad Fatigue on Engagement Campaigns
+30-day frequencies show oversaturation:
+- Hammer Them Carousels: **15.45x** (people have seen it 15 times)
+- Hammer Them Social Proof Videos: **11.96x**
+- Hammer Them Short Form: **9.69x**
+- Venus Flytrap Authority Ad: **6.17x**
+
+### 4. Venus Flytrap Educational Is the Only Traffic Driver
+This campaign generates **94% of all link clicks** at $0.03 CPC — extremely efficient. But it has **zero conversion tracking**, so its real business impact is unknown.
+
+### 5. Your Converting Campaigns Are Paused
+- MOF Leadform Optins (2 blueprint purchases at $377 each) — **PAUSED**
+- C5b Academy FreeTrial (1 blueprint purchase at $1,309) — **PAUSED**
+- MOF IG Retargeting Social Proof (was best ROAS at 7.17 in 90-day view) — **PAUSED**
 
 ---
 
 ## Recommendations
 
-### Immediate Actions
+### Immediate (This Week)
 
-1. **Reduce frequency on active engagement campaigns** — Cap frequency at 3-4x or refresh creative. The $22,854 going to Venus Flytrap Authority Ad and Hammer Them Short Form is being wasted on oversaturated audiences.
+1. **Pause or reduce Hammer Them Social Proof Videos** — $1,212 for 1 link click in 30 days. This is the worst performer by far.
 
-2. **Reactivate MOF - IG Retargeting - Social Proof** — This is your best campaign by every metric (7.17 ROAS, $0.13 CPC, $74.57 per blueprint purchase). Scale this with increased budget.
+2. **Reduce Venus Flytrap Authority Ad budget by 50%** — $5,124 for 17 link clicks. Reallocate to conversion campaigns.
 
-3. **Add conversion tracking to Venus Flytrap - Educational** — This campaign drives massive cheap traffic (59K clicks at $0.03) but has no conversion tracking. Add pixel events and UTM parameters to capture the value.
+3. **Reactivate MOF - IG Retargeting Social Proof** — This had 7.17 ROAS and $0.13 CPC in the broader window. It's your best conversion campaign and it's sitting idle.
 
-4. **Pause or restructure C5 - Academy Retargeting** — At 0.07 ROAS, this campaign is generating essentially no return.
+4. **Reactivate MOF - Leadform Optins** with fresh creative — 2 blueprint purchases at $377 each. Not great, but infinitely better than the $0 conversions from current active campaigns.
 
-### Strategic Shifts
+### Short-Term (Next 2 Weeks)
 
-5. **Rebalance budget from Engagement → Leads/Sales** — 77% of spend on engagement is too high. Shift at least 40% toward conversion-optimized campaigns.
+5. **Add conversion pixels to Venus Flytrap Educational** — This drives 42K link clicks/month at $0.03 each. If even 0.5% convert, that's 200+ leads/month for $1,314.
 
-6. **Build a proper funnel**:
-   - **TOF (20% budget)**: Keep Venus Flytrap Educational for cheap traffic + awareness
-   - **MOF (50% budget)**: Scale the IG Retargeting Social Proof approach, test new retargeting creative
-   - **BOF (30% budget)**: Restructure the Book a Call and Academy campaigns with fresh audiences and lower frequency caps
+6. **Set frequency caps** at 4x on all engagement campaigns to stop wasting money on the same people.
 
-7. **Expand audiences on engagement campaigns** — The extreme frequencies indicate the audience pools are too small for the budgets. Broaden targeting or use lookalike audiences.
+7. **Refresh creative** on Hammer Them Short Form — it's still driving decent impressions at good CPM, but the engagement rate and link clicks are declining.
 
-8. **Test the $27 Blueprint as a tripwire** — 5 purchases in 90 days suggests some demand. Create a dedicated campaign optimized for purchases with the blueprint as entry offer, then upsell to $300/$1K/$5K programs.
+### Strategic (Next 30 Days)
+
+8. **Restructure budget allocation:**
+   - Current: 65% Engagement / 9% Traffic / 13% Sales / 5% Leads / 5% Awareness
+   - Recommended: 20% Awareness-Engagement / 30% Traffic / 50% Leads-Sales
+
+9. **Build a conversion-optimized funnel:**
+   - TOF: Venus Flytrap Educational (keep, add tracking)
+   - MOF: Reactivate IG Retargeting + Leadform campaigns
+   - BOF: New campaign optimized for $27 Blueprint purchase as tripwire
 
 ---
 
-## Budget Efficiency Score
+## Bottom Line
 
-| Category | Spend | Conversions | Efficiency |
-|----------|-------|-------------|------------|
-| Engagement/Awareness (no conversions) | $25,646 | 0 | Burning cash |
-| Traffic (no tracking) | $2,045 | 0 tracked | Unknown |
-| Leads/Sales (converting) | $5,601 | 7 | $800/conversion |
-| **Total** | **$33,292** | **7** | **$4,756/conversion** |
-
-**Bottom line:** Only 17% of budget ($5,601) is going toward campaigns that generate any measurable conversions, and even those are expensive. The account needs a fundamental restructure to shift spend from vanity metrics (impressions, engagement) toward revenue-generating activities.
+**You're spending ~$450-500/day ($13,500-15,000/month) with zero conversions over the last 7 days.** The active campaigns are all engagement/awareness focused — they drive views and impressions but almost no one clicks through or converts. Meanwhile, the campaigns that actually generated conversions have been paused. The account needs an urgent rebalance from vanity metrics toward revenue.
