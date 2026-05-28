@@ -295,3 +295,97 @@ That's ~9-11 new creatives, not 24. And C1 Authority gets touched only if you ha
 - 95%-completion count dropping while spend stays flat
 - CPM rising significantly
 - Frequency climbing without offsetting reach growth
+
+---
+
+# TONIGHT'S BUILD LIST — Specific, with Source Footage
+
+Source library: **"CFS Recovery - Testimonials"** Google Sheet (85 consented testimonials with
+YouTube links, ready-made quotes, ages, illness, severity). All picks below are drawn from it.
+
+## BUILD 1 — Louis Ad v.2 (hook refresh)
+- **Source:** existing Louis Ad raw files (your current best testimonial at $0.0054/view)
+- **Change:** first 3 seconds only — new pattern-interrupt hook. Keep body + CTA identical.
+- **Hook to test:** open on Louis's strongest "before" line, hard cut to "now" footage.
+- **Ad set:** C3 Videos · **Name:** `Louis Ad v.2`
+
+## BUILD 2 — Louis Ad v.3 (15-second cut)
+- **Source:** same Louis raw files
+- **Change:** cut to 15s of the single strongest moment. Tests lower cost/ThruPlay.
+- **Ad set:** C3 Videos · **Name:** `Louis Ad v.3 - 15s`
+
+## BUILD 3 — Louis Ad captions variant
+- **Source:** Louis Ad v.1
+- **Change:** large burned-in captions for sound-off viewing.
+- **Ad set:** C3 Videos · **Name:** `Louis Ad - Captions`
+
+## BUILD 4 — Replace "Testimonial Reel | Women v.1" (the one true underperformer)
+Pick ONE woman's story below, edit to match the Men v.1 reel format, launch, then pause Women v.1.
+
+**Recommended: Janette Diaz (52)** — `Bedridden to Running in 3 Months`
+- YouTube: https://www.youtube.com/watch?v=EmnnX58JK2k
+- Hook quotes (ready to caption):
+  - "There were days that I wished I didn't wake up."
+  - "I couldn't walk for 8 months."
+  - "I had 35-plus symptoms. I fainted about four times."
+  - Payoff: bedridden → running in 3 months
+- Why: dramatic before/after, emotional hook, fast transformation arc. **Name:** `Testimonial Reel | Women v.2 - Janette`
+
+**Backup options (all strong women's stories with footage):**
+- **Nicole (41)** https://www.youtube.com/watch?v=LcFAhdrNRVw — "Every inch of my body felt like cement." → 10,000+ steps/day
+- **Annette (26)** https://www.youtube.com/watch?v=gX9ewL-509U — "I laid on the floor and could not get up anymore." → dancing for hours in 6 months
+- **Karen (66)** https://www.youtube.com/watch?v=CrWGods5hgg — "I couldn't even feed myself." → thriving at 66 (older-demo angle)
+
+## BUILDS 5-7 — Three NEW C3 video concepts (break the all-testimonial sameness)
+Your current C3 Videos are all single-person talking-head testimonials. Add different FORMATS:
+
+**BUILD 5 — Pattern-interrupt: extreme severity story**
+- **Juliette R. (22)** https://www.youtube.com/watch?v=4VPojoaWH1s
+  - "Completely bedridden for nine months — unable to speak, eat, or be touched."
+  - Hook on the extremity, payoff on full recovery. Stops the scroll. **Name:** `C3 - Juliette - Extreme Severity`
+
+**BUILD 6 — Demographic pattern-interrupt: oldest recoverer**
+- **Dusty (73)** https://www.youtube.com/watch?v=atnz99awPF0
+  - "Recovered from CFS at 73." Breaks the "I'm too old/too far gone" objection. **Name:** `C3 - Dusty - Age 73`
+
+**BUILD 7 — Parent/relatable angle**
+- **Paris (40, mom)** https://www.youtube.com/watch?v=Bdmox1UpXBA — bedbound, husband bringing meals while caring for their 6-yr-old → thriving
+  - OR **David Ee (41, dad)** https://www.youtube.com/watch?v=6lul1iKCISE — "most terrifying seven days of my life" → hiking with his 1-year-old son
+  - Targets parents who fear losing time with their kids. **Name:** `C3 - Paris - Parent Angle`
+
+## BUILDS 8-10 — Three new C2 BM-style ads + cleanup
+- **Before building:** review BM-1, BM-4, BM-6, BM-10 (the sub-$0.65 CPC winners) and note the shared pattern (hook style / length / tone).
+- **Build 3 new** matching that pattern, new angles. **Names:** `BM-21`, `BM-22`, `BM-23`
+- **Pause now:** OH-2, OH-3, OH-4, OH-10 (all >$1.50 CPC)
+
+## BUILDS 11-13 — Three new C1 Educational hooks (scale the $0.03 CPC winner)
+- Winners: `Internal Vibrations - H1`, `Internal Vibrations - H3 v2`
+- Build `H2`, `H4`, `H5` — change only the first 3-5 sec hook, keep body + landing page identical.
+- **Also:** bump Educational budget +50% (frequency only 1.6x — room to scale).
+
+## BUILD 14 — Reactivate MOF IG Retargeting Social Proof
+- Turn campaign back on, retarget last-30-day engagers (1M+ reach pool).
+- Fresh creative: use the new Janette or Juliette reel as the social-proof asset.
+- Objective: Leads/Conversions → application form.
+
+## BUILD 15 — Application form attribution
+- Add field: "Where did you first see us?" (FB video / IG video / YouTube / referral / Google / other)
+- Add hidden UTM capture (utm_source, utm_campaign, utm_content).
+- Purpose: tie closed deals back to specific campaigns + creatives.
+
+---
+
+## Condensed checklist for tonight
+1. [ ] Louis Ad v.2 (hook refresh)
+2. [ ] Louis Ad v.3 (15s cut)
+3. [ ] Louis Ad captions variant
+4. [ ] Janette (52) reel → replace Women v.1
+5. [ ] Juliette (22) extreme-severity reel
+6. [ ] Dusty (73) age-angle reel
+7. [ ] Paris/David parent-angle reel
+8. [ ] BM-21, 22, 23 + pause OH-2/3/4/10
+9. [ ] Internal Vibrations H2/H4/H5 + budget +50%
+10. [ ] Reactivate MOF retargeting
+11. [ ] Add application-form attribution
+
+Highest leverage: #1-4 (compound Louis, replace the one loser). Everything else is depth.
