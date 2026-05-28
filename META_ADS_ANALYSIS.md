@@ -161,3 +161,133 @@ The hammer strategy is **doing exactly what it's designed to do**: pumping conte
 3. **Better attribution** on the application form so you can see which content actually drives deals
 
 At ~12x business ROAS, this account is healthy — the work is in fine-tuning, not restructuring.
+
+---
+
+## Ad-Level Variety Audit (Last 30 Days)
+
+### C1 — Venus Flytrap (Top of Funnel)
+
+**Authority Ad ($5,124 spend) — ONLY 2 creatives:**
+
+| Ad | Spend | Impressions | Freq | CPC | Link Clicks |
+|----|-------|-------------|------|-----|-------------|
+| Authority - 5 Mins | $2,814 | 1.06M | 4.80x | $1.00 | 9 |
+| Authority - 1 Min | $2,310 | 876K | 3.89x | $1.01 | 8 |
+
+**Same authority message in two lengths.** This is the single biggest variety gap — $5K of spend on essentially one creative concept.
+
+**Educational ($1,314 spend) — 2 creatives, performing well:**
+
+| Ad | Spend | Impressions | Freq | CPC | Link Clicks |
+|----|-------|-------------|------|-----|-------------|
+| Internal Vibrations - H3 v2 | $682 | 331K | 1.57x | $0.03 | 22,534 |
+| Internal Vibrations - H1 | $632 | 330K | 1.73x | $0.03 | 19,767 |
+
+Both crushing it. Low frequency means audience isn't saturated yet — room to add 2-3 more hook variations and scale.
+
+### C2 — Hammer Them Short Form (Healthiest Variety)
+
+**$4,967 across 26 ads** — BM-series (15 ads) + OH-series (11 ads). Per-ad frequency mostly 1.3-3.2x = healthy.
+
+**Top performers (BM-series — keep + iterate):**
+
+| Ad | Spend | CPC | Frequency |
+|----|-------|-----|-----------|
+| BM-10 | $359 | $0.55 | 2.39x |
+| BM-6 | $172 | $0.54 | 1.78x |
+| BM-4 | $219 | $0.61 | 1.89x |
+| BM-1 | $214 | $0.65 | 1.85x |
+
+**Underperformers (OH-series — most are over $1 CPC):**
+
+| Ad | Spend | CPC | Frequency |
+|----|-------|-----|-----------|
+| OH-4 | $108 | $2.17 | 1.71x |
+| OH-2 | $114 | $1.75 | 1.69x |
+| OH-10 | $99 | $1.53 | 1.67x |
+| OH-3 | $98 | $1.50 | 1.84x |
+
+The OH-series averages ~$1.20 CPC vs BM-series at ~$0.75 CPC. **Pause the bottom 4 OH ads and reallocate budget to BM winners.**
+
+### C3 — Hammer Them Social Proof
+
+**Videos sub-campaign ($1,212 spend) — variety problem:**
+
+| Ad | Spend | Impressions | Freq | CPC | Link Clicks |
+|----|-------|-------------|------|-----|-------------|
+| Testimonial Reel \| Men v.1 | $408 | 193K | 6.57x | $1.56 | 0 |
+| Louis Ad | $337 | 151K | 5.14x | $1.16 | 1 |
+| Testimonial Reel \| Men&Women v.1 | $323 | 88K | 3.77x | $2.32 | 0 |
+| Testimonial Reel \| Women v.1 | $144 | 26K | 4.80x | $4.81 | 0 |
+
+4 ads, all testimonial reels, all "v.1" — no concept variety and no iterations.
+
+**Carousels sub-campaign ($745 spend) — 6 themed buckets, healthy variety:**
+
+Fitness, Misc, Energy Wins, Adventure/Social, Travel, Family. Per-ad frequency 3.7-4.6x. Working as designed.
+
+---
+
+## Tonight's Build List
+
+### Priority 1 — C1 Venus Flytrap Authority Ad (biggest variety gap, $5K+ spend)
+
+Add **5-8 new authority creatives** beyond the current 5-min and 1-min:
+- [ ] **Authority - Credentials angle** (degrees, years of experience, patients helped)
+- [ ] **Authority - "I was wrong" angle** (what you used to believe vs. what you learned)
+- [ ] **Authority - Mechanism angle** (the specific science of how CFS recovery works)
+- [ ] **Authority - Case study angle** (one client's journey in detail)
+- [ ] **Authority - Contrarian angle** (why most CFS advice is wrong)
+- [ ] **Authority - 30-second hook test** (shorter than 1-min for top-of-feed scroll-stopper)
+- [ ] **Authority - First-person POV** (less polished, more direct-to-camera)
+- [ ] **Authority - Question format** (open with the question your audience is googling)
+
+### Priority 2 — C3 Hammer Them Social Proof Videos (4 fatigued v.1 testimonials)
+
+Build **v.2 and v.3 iterations** + new concept types:
+- [ ] **Louis Ad v.2 + v.3** — same person, new hook, new cut (it has the best frequency economics at 5.14x)
+- [ ] **Day-in-the-life testimonial** (different format than "talking head testimonial")
+- [ ] **Before/After journey video** (visual transformation, not just narration)
+- [ ] **Couple/family testimonial** (testimonial from spouse or family member of recovered client)
+- [ ] **Mid-recovery testimonial** ("I'm 6 months in, here's what's changed") — different from full recovery stories
+- [ ] **Pattern-interrupt testimonials** — unexpected client demographics (athlete, executive, parent, etc.)
+
+### Priority 3 — C2 Hammer Them Short Form (already healthy, just refine)
+
+- [ ] **Pause OH-2, OH-3, OH-4, OH-10** — all over $1.50 CPC, well above account average
+- [ ] **Build 5-6 new BM-style ads** modeled on top performers (BM-10, BM-6, BM-4, BM-1) — same content style, new angles
+- [ ] **Review what makes BM ads outperform OH** — is it the hook? Length? Tone? Document the pattern for future creatives
+
+### Priority 4 — C1 Venus Flytrap Educational (working, scale it)
+
+- [ ] **Add 2-3 new "Internal Vibrations" hook variations** (H1 and H3 are winning, build H2, H4, H5)
+- [ ] **Test increasing budget** — 1.57x and 1.73x frequency means audience isn't saturated yet, you can spend more here
+- [ ] **Add conversion tracking** on landing page — you're getting 42K link clicks/month with no attribution
+
+### Priority 5 — C3 Carousels (healthy, extend the runway)
+
+Add 4-5 new bucket themes:
+- [ ] **Mental Clarity Wins** (brain fog improvements)
+- [ ] **Sleep Wins** (sleep quality improvements)
+- [ ] **Relationship Wins** (impact on family/partner)
+- [ ] **Career Wins** (return to work / promotions / productivity)
+- [ ] **Daily Life Wins** (small everyday things — cooking, driving, errands)
+
+### Priority 6 — Operations
+
+- [ ] **Reactivate MOF - IG Retargeting Social Proof** with fresh creative aimed at booked calls
+- [ ] **Add UTM source tracking + "How did you find us?" field** on application form
+- [ ] **Schedule next creative refresh** for ~4-6 weeks from now to stay ahead of fatigue
+
+---
+
+## Summary for Tonight
+
+**Highest leverage builds:**
+1. **8 new Authority creatives** for Venus Flytrap (currently your most under-diversified $5K spend)
+2. **6 new Social Proof video concepts** for C3 Videos (kills the all-"v.1" problem)
+3. **5-6 new BM-style ads** for C2 (extending what's already working)
+4. **5 new Carousel buckets** for C3 (extends the variety runway you already have)
+
+That's ~24 new creatives to build. C1 Authority and C3 Videos are the urgent ones — everything else is "while you're at it."
