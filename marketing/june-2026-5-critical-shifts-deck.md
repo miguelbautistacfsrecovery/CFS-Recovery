@@ -146,30 +146,35 @@ the root cause, which sets up Shift 1.
 
 **On-slide copy:**
 > ## Shift 1
-> ### From "I crashed because I physically overdid it"
-> ### To "I crash because my nervous system is in protection mode"
-> Symptoms are signals, not threats. The body is protecting, not breaking.
+> ### From "My symptoms mean my body is breaking"
+> ### To "My symptoms are very likely a sensitive nervous system adapting, not breaking"
+> Retraining a nervous system is a lot like getting fit. Some manageable symptoms are part of the adaptation, not proof of damage.
 >
-> **Analogy: a smoke alarm stuck on.** The alarm is real and loud, but the house isn't on fire.
+> **Analogy: getting fit.** Soreness after a workout isn't injury, it's your body adapting and getting stronger. The skill is keeping it manageable, not pushing into a crash.
 
 **Talk track:**
-"Most people assume a crash is simple cause and effect. I walked too far, I used up my
-energy, so now I'm wiped out. If that were the whole story, then careful pacing would have
-fixed you by now. For a lot of you it hasn't. Here's what we see, and I want to be careful
-with how I say this because I'm not a doctor and this isn't a diagnosis. As long as your
-tests and scans have come back normal and your doctors have ruled other things out, what's
-very often going on is a nervous system that has gotten stuck in protection mode. Think of a
-smoke alarm that has started going off when there's no fire. The alarm is real, the sound
-is real, but the house isn't burning. Your symptoms are real too. They're just signals
-from a system that's being overprotective, not proof that your body is broken. This matters
-because if the root is a protective nervous system, then only managing the physical side
-will never be enough on its own."
+"Most people read every symptom as proof that their body is breaking, or that they did
+something wrong. As long as your tests and scans have come back normal and your doctors have
+ruled other things out, what we very often see is different. It's a nervous system that has
+become sensitive and overprotective, and the good news is that a sensitive nervous system
+can be retrained. Here's the picture I want you to hold. Retraining your nervous system is a
+lot like getting back in shape. When you start working out again, you get sore. That
+soreness isn't a sign you did the workout wrong. It's a sign your body is adapting and
+building capacity. The nervous system can work in a similar way. As you gently expand, some
+symptoms along the way can be part of that same adaptation, not proof of damage. Now I want
+to be really clear, this isn't a green light to push into a crash. The key word is
+manageable. We're not chasing symptoms and we're not ignoring our limits. But a bit of
+soreness in the system, kept manageable, is often part of the growth process rather than a
+step backwards."
 
-**Why it lands:** Answers "why do I crash after doing normal things" and "I have tried
-everything and still crash." Reframes the body as protective, not broken.
+**Why it lands:** Answers "every symptom scares me, am I damaging myself" and "I've tried
+everything and still crash." Reframes manageable symptoms as nervous system adaptation using
+the familiar experience of getting fit, while keeping the once-tests-are-normal guardrail and
+the manageable, do-not-overdo caution.
 
-**Purpose:** Reframe the root cause so the rest of the shifts have a foundation. Establish
-that physical pacing alone is incomplete.
+**Purpose:** Reframe the root cause so the rest of the shifts have a foundation. Establish that
+managing the physical side alone is incomplete, and that some manageable symptoms are a normal
+part of adaptation, not proof of damage.
 
 ---
 
@@ -177,30 +182,32 @@ that physical pacing alone is incomplete.
 
 **On-slide copy:**
 > ## Shift 2
-> ### From "Activity equals physical exertion"
-> ### To "Your nervous system reacts to how safe something feels, not just how hard it is"
-> The same task can cost you nothing one day and wreck you the next.
+> ### From "Building capacity only means doing more physically"
+> ### To "Capacity grows in many areas, and everything draws from the same tank"
+> A hard conversation, a stressful inbox, and a long walk all pull from one system. You can build capacity in the non-physical areas too.
 >
-> **Analogy: a guard dog that never sleeps.** It barks at the mailman, not just at burglars, so it reacts to everything, not only real danger.
+> **Analogy: total training load.** For an athlete, the gym is only part of it. Sleep, stress, and emotions all land on the same body. Your nervous system is no different.
 
 **Talk track:**
-"Here's something that confuses almost everyone. The exact same activity can be fine one
-day and flatten you the next. Same number of steps, same task, totally different result. If
-activity were only about physical effort, that would make no sense. But once you see that
-the nervous system is reacting to safety, it clicks. Your system isn't just counting steps.
-It's reading everything. The stressful phone call before the walk. The worry about whether
-you'll crash. The argument, the bad news, the deadline. To a protective nervous system,
-all of that is load. It's like a guard dog that never sleeps, reacting to every sound in
-the street, not just the real threats. So the goal isn't only to do less physically. It's
-to help your system feel safer while you're active. How you respond to a symptom, with
-panic or with calm, is itself one of those inputs. That's why two people can do the same
-thing and only one of them crashes."
+"Once you see recovery as training your nervous system, the next piece clicks. The training
+isn't only physical. Most people count steps and minutes on their feet and miss everything
+else. A stressful phone call, a hard email, worry about whether you'll crash, a rough night
+of sleep. To your nervous system, all of that's load, and it pours into the same tank as the
+physical activity. Think about how a good coach treats an athlete. The workout is only one
+input. Sleep, stress, life pressure, and emotions all land on the same body and the same
+recovery. Your nervous system works the same way. There are two big implications. First, the
+same activity can cost you nothing one day and flatten you the next, because the rest of the
+load was different. Second, and this is the hopeful part, capacity doesn't only grow by
+walking further. You can build it by lowering the hidden load, and by how calmly you respond
+when symptoms show up. That response is itself one of the inputs, which is why two people
+can do the exact same thing and only one of them crashes."
 
-**Why it lands:** Answers "the same activity wrecks me one day and not the next" and the
-fear of doing anything at all. Introduces Responding Well to Symptoms.
+**Why it lands:** Answers "the same activity wrecks me one day and not the next" and the fear
+of doing anything at all. Shows capacity is trained across many areas, not just physical, and
+introduces hidden load and Responding Well to Symptoms.
 
-**Purpose:** Break the simple effort equals payback model and introduce emotional and
-cognitive load plus the role of the person's own response.
+**Purpose:** Break the simple effort-equals-payback model, show that all load draws from one
+system, and introduce emotional and cognitive load plus the role of the person's own response.
 
 ---
 
@@ -215,23 +222,26 @@ cognitive load plus the role of the person's own response.
 > **Analogy: a dimmer switch, not a light switch.** You turn the dial up slowly and leave it there. You don't flip from off to full blast.
 
 **Talk track:**
-"This is the one that changes how you actually increase activity. Most people live at the
-extremes. On a good day they go all in, because who knows when the next good day will come.
-Then they crash and shut everything down. All or nothing. Up here or down there. The problem
-is that the push and crash cycle IS that all or nothing thinking, played out in your body.
-The way people break the cycle is by living in what we call the gray area. That's the middle
-ground between doing too much and doing too little. You expand in small steps that your
-system can actually accept, and you stop trying to win it all back in a single afternoon.
-A helpful way to start is the three foot world, which just means focusing on what's right in
-front of you and within your control today, instead of the whole mountain. Recovery is a
-dimmer switch, not a light switch. You're not flipping from off to on. You're slowly
-turning the dial up, and learning to leave it there."
+"This is the one that changes how you actually increase activity, and it maps straight onto
+getting fit. Most people live at the extremes. On a good day they go all in, because who
+knows when the next good day will come. Then they crash and shut everything down. All or
+nothing. Here's the thing. Even in the gym, you don't just wing it and max out every time
+you feel good, not unless you're already a high-level athlete. And in recovery, our nervous
+system isn't a high-level athlete yet. Right now it's a beginner. Beginners make progress
+with consistency and a load they can repeat, not with one heroic session followed by a week
+on the couch. So we expand from what we call the gray area, the middle ground between too
+much and too little, in small steps the system can actually accept. The key word is
+sustainable. A helpful way to start is the three foot world, which just means focusing on
+what's right in front of you and within your control today, instead of the whole mountain.
+Recovery is a dimmer switch, not a light switch. You're not flipping from off to on. You're
+slowly turning the dial up, and learning to leave it there."
 
 **Why it lands:** Answers "how do I increase activity without giving up my life" and "am I
-pushing too hard or not enough." Teaches the Gray Area and Three-Foot World.
+pushing too hard or not enough." Frames recovery as sustainable training for a beginner system,
+and teaches the Gray Area and Three-Foot World.
 
-**Purpose:** Give the audience the central method for expansion, which is incremental growth
-from the middle rather than swinging between extremes.
+**Purpose:** Give the audience the central method for expansion, which is incremental, sustainable
+growth from the middle rather than swinging between extremes.
 
 ---
 
@@ -241,27 +251,33 @@ from the middle rather than swinging between extremes.
 > ## Shift 4
 > ### From "A dip means I went backwards, so doing more is dangerous"
 > ### To "Adjustment periods are part of expanding, and your response decides what happens next"
-> A dip isn't failure. It's your system recalibrating.
+> A dip isn't failure. It's your system adapting to a new level, which is where the growth happens.
 >
-> **Analogy: a beach ball held underwater.** The harder you shove the dip down with fear, the harder it pops back up.
+> **Analogy: the rest day.** Muscle isn't built during the workout, it's built while you recover from it. An adjustment period is that recovery window, so give it time and space.
 
 **Talk track:**
-"As you start to expand, you'll still have dips. I want to be honest about that so it does
-not scare you when it happens. We don't call these crashes. We call them adjustment periods,
-because that's what they are. Your system adjusting to a new level of activity. Here's the
-part that decides everything. When a dip comes, most people read it as proof that they went
-backwards and that doing more is dangerous. So they panic, they pull back hard, and they get
-scared to try again. And that fear and contraction is often what turns a small dip into a
-long crash. It's like a beach ball you're trying to hold underwater. The harder you push it
-down with fear, the harder it pushes back. When you can meet a dip calmly, as a normal part
-of adjusting, your system settles faster and you keep your overall progress. The dip isn't
-the enemy. The panic about the dip is what costs you."
+"As you start to expand, you'll still have dips. We don't call these crashes. We call them
+adjustment periods, because that's what they are, your system adjusting to a new level of
+activity. And the fitness picture fits this perfectly. Think about how muscle actually gets
+built. It's not built during the workout. It's built afterwards, while you rest and recover
+from it. The soreness, and then the recovery, is where the growth happens. An adjustment
+period is that same recovery window for your nervous system. Give it time and space, and the
+system adapts to the new level. I'll be honest with you, once I understood this, I even
+started to look forward to these periods, because to me they were a sign I was unlocking a
+new level of capacity. The part that decides everything is your response. Most people read a
+dip as proof they went backwards and that doing more is dangerous, so they panic and pull
+back hard in fear, and that fear is often what turns a small dip into a long crash. You
+wouldn't pile on five more workouts because you got sore, and you also wouldn't treat the
+soreness as a disaster. You'd give it space. Meet a dip the same calm way, and many people
+find their system settles faster and they keep their overall progress."
 
-**Why it lands:** Answers "I am doing everything right but still not improving" and "every
-time I do more I get punished." Reframes Adjustment Periods and ties back to responding well.
+**Why it lands:** Answers "I'm doing everything right but still dip" and "every time I do more
+I get punished." Reframes Adjustment Periods as the recovery-and-growth window using the rest-day
+analogy, and ties the outcome to the person's response rather than the dip itself.
 
-**Purpose:** Remove the fear that keeps people from ever increasing activity, by reframing
-the inevitable dips and teaching that the response, not the dip, drives the outcome.
+**Purpose:** Remove the fear that keeps people from ever increasing activity, by reframing the
+inevitable dips as the adaptation window and teaching that the response, not the dip, drives the
+outcome.
 
 ---
 
@@ -276,26 +292,31 @@ the inevitable dips and teaching that the response, not the dip, drives the outc
 > **Analogy: a map.** A map can't give you directions until it knows where you're standing. Your next step depends on your starting point.
 
 **Talk track:**
-"The last shift ties it together. People spend months hunting for the magic number. The
+"The last shift ties it all together. People spend months hunting for the magic number, the
 perfect amount of activity that will finally be safe. The truth is there's no universal
-number, because the right way to expand depends on where your nervous system is right now. We
-use a simple scale, from people who are mostly bedridden, to mostly housebound, to functional
-but still dealing with symptoms, to fully functional with very little. Someone at one end
-needs a completely different expansion strategy than someone at the other. Push a system that
-is deep in protection too fast and it pushes back. Baby a system that's almost ready and you
-stall. Think of it like a map. A map can't give you directions until it knows where you're
-standing. The right next step is different depending on your starting point, and that's hard
-to read from the inside. This is the good news though. None of this is about luck or willpower. It's a
-learnable skill. The brain and nervous system can adapt and rewire. People who had been sick
-for years, who were sure it was too late for them, have learned this and changed what their
-days look like. The reason it feels impossible to figure out alone is that you're inside it,
-and you can't easily see your own pattern or your own zone. That's exactly where guidance
+number, because the right amount depends on where your nervous system is right now. Think
+about training one more time. Some days in the gym you feel strong, some days you're flat,
+and that's completely normal. A good lifter doesn't force the identical session every single
+day. They read how they feel, how they slept, how much energy they have, and they adjust on
+the fly. Over time that reading becomes intuitive. Recovery is the same, and it matters even
+more here, because a hypersensitive nervous system loves flexibility. It doesn't respond
+well to rigid rules or black and white, all or nothing behavior. So instead of chasing one
+fixed number, you learn to read your system and meet it where it is that day. We use a simple
+scale, from mostly bedridden, to mostly housebound, to functional but still dealing with
+symptoms, to fully functional with very little. Someone at one end needs a completely
+different strategy than someone at the other. Push a system that's deep in protection too
+fast and it pushes back. Baby a system that's almost ready and you stall. Think of it like a
+map. A map can't give you directions until it knows where you're standing. The hopeful part
+is that this is a learnable skill, not luck or willpower. The brain and nervous system can
+adapt and rewire. The reason it feels impossible to figure out alone is that you're inside
+it, and you can't easily read your own system from in there. That's exactly where guidance
 makes the difference."
 
-**Why it lands:** Answers "been sick for years, is it too late," skepticism, and "nothing has
-worked for me." Introduces the PolyVagal Scale and neuroplasticity, and bridges to the offer.
+**Why it lands:** Answers "been sick for years, is it too late," "nothing has worked for me," and
+"what's my number." Frames the right amount as a flexible, learnable skill of reading your system
+day to day, introduces the scale and neuroplasticity, and bridges to the offer.
 
-**Purpose:** Close the teaching by showing why a personalized strategy is needed, which
+**Purpose:** Close the teaching by showing why a flexible, personalized strategy is needed, which
 naturally opens the door to coaching without a hard sell.
 
 ---
@@ -304,21 +325,23 @@ naturally opens the door to coaching without a hard sell.
 
 **On-slide copy:**
 > ### If you forget everything else, remember these 5 pictures
-> 1. **Smoke alarm stuck on**: the alarm is real, the house isn't on fire
-> 2. **Guard dog that never sleeps**: it barks at the mailman, not just burglars
-> 3. **Dimmer switch, not a light switch**: turn the dial up slowly, don't flip to full blast
-> 4. **Beach ball underwater**: the harder you push the dip down with fear, the harder it pops back
-> 5. **A map**: you can't get directions until it knows where you're standing
+> 1. **Getting fit**: soreness is adaptation, not damage, so keep symptoms manageable
+> 2. **One tank**: physical effort, stress, and emotion all draw from the same system
+> 3. **Dimmer switch, not a light switch**: turn the dial up slowly and leave it there
+> 4. **The rest day**: you grow while you recover from a dip, so give it time and space
+> 5. **A map**: read where you are today and adjust, your nervous system loves flexibility
 
 **Talk track:**
-"I know that was a lot, and brain fog is real, so let me give you five pictures to hold onto.
-You don't have to remember the science. Just remember these. A smoke alarm stuck on. A guard
-dog that never sleeps. A dimmer switch, not a light switch. A beach ball underwater. And a
-map that needs to know where you're standing. If only one of these stuck with you today,
-that's enough. That one picture can change how you handle the next good day."
+"I know that was a lot, and brain fog is real, so let me give you five pictures to hold
+onto. You don't have to remember the science. Just remember these. Getting fit, where
+soreness is adaptation and not damage. One tank, where physical effort, stress, and emotion
+all draw from the same system. A dimmer switch, not a light switch. The rest day, where you
+actually grow while you recover from a dip. And a map that needs to know where you're
+standing. If only one of these stuck with you today, that's enough. That one picture can
+change how you handle the next good day."
 
-**Purpose:** Lock in retention for an analogy-driven, low-bandwidth audience by recapping all
-five images together as a single visual mnemonic before the transition to the offer.
+**Purpose:** Lock in retention for an analogy-driven, low-bandwidth audience by recapping all five
+images together as a single visual mnemonic before the transition to the offer.
 
 ---
 
