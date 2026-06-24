@@ -5,7 +5,7 @@
 **Theme:** How to increase your activity without triggering the push-and-crash cycle.
 
 **Goal of the event:** Teach the five mindset shifts that let people safely expand what
-they can do in daily life, then invite the right people to apply for the Recovery System.
+they can do in daily life, then invite the right people to start a free 7-day trial of the Recovery Academy.
 
 **How to read this file:** Each slide has three parts.
 - **On-slide copy** is the text that appears on the slide. Keep it short. People with
@@ -363,54 +363,163 @@ workshop like this can do and what it can't. Today gives you the what and the wh
 shifts are true for everyone. But the how, how much you specifically should be doing, what
 zone you're in, what your first expansion looks like, that's different for every single
 person. That's the piece you can't really get from a video or a free guide, because it has
-to be matched to you."
+to be matched to you. So let me show you where that personalized piece actually lives."
 
-**Purpose:** Create the natural conversion moment from the value-boundary strategy. Educate
-on the what and why, withhold the personalized how, which drives applications.
+**Purpose:** Create the natural conversion moment. Educate on the what and why, withhold the personalized how, which sets up the Academy.
 
 ---
 
-## Slide 12: The offer
+## Slide 12: The Recovery Academy
 
 **On-slide copy:**
-> ### The Recovery System
-> Personalized 1-on-1 coaching that helps you find your zone and expand your activity safely,
-> with a plan built around you and support through the adjustment periods.
->
-> See if you're a good fit: **cfsrecovery.co/apply**
+> ### Meet the Recovery Academy
+> Three pillars that make the difference:
+> - **A clear, step-by-step plan:** a structured, science-backed roadmap, so recovery feels predictable and you lose the fear of doing it wrong
+> - **Personalized support and coaching:** real help from people who have been where you are, plus a community that truly gets it
+> - **Data-driven progress:** measurable indicators so you can stay ahead of crashes and recover smarter, not harder
 
 **Talk track:**
-"For people who want that personalized piece, the CFS Recovery team runs a coaching program
-called the Recovery System. In simple terms, it's one on one guidance that helps you figure
-out where you are, build an expansion plan that fits your situation, and have someone in your
-corner when the adjustment periods come, so you don't spiral back into fear. I'm not going
-to push anyone. If today was helpful on its own, wonderful, take these shifts and use them.
-But if you want help applying them to your specific situation, the next step is simple. Go to
-cfsrecovery.co slash apply and see if you're a good fit. It's an application, because this
-works best when it's the right match on both sides."
+"It's a program called the Recovery Academy, and it's built on three pillars that make all
+the difference. First, a clear, step-by-step plan. No more guessing, no more confusion. You
+follow a structured, science-backed roadmap, so recovery feels predictable instead of
+random, and you lose that fear of doing it wrong. Second, personalized support and coaching.
+You don't do this alone. You get direct support from people who have been in your shoes,
+plus a community who genuinely understand what you're going through. And third, data-driven
+progress. We don't just rely on hope. We use real, measurable indicators, so you can see
+what's working, stay ahead of the crashes, and recover smarter, not harder. The plan, the
+people, and the data. Those three together are what's so hard to pull together on your own."
 
-**Purpose:** Present the paid program as the answer to the how, with a low pressure,
-application based call to action that matches the brand's non pushy posture.
+**Why it lands:** Maps the offer directly onto the three things they have been missing: a plan, real support, and a way to measure progress.
+
+**Purpose:** Introduce the program as the structured answer to the personalized how.
 
 ---
 
-## Slide 13: Why apply now
+## Slide 12b: What you get, and the real price
 
 **On-slide copy:**
-> ### The fact that you're still functioning is exactly why now matters
+> ### Everything inside the Academy
+> - Recovery Guides and video modules for every roadblock
+> - Live coaching calls with the coaches
+> - A supportive community that truly gets it
+> - Your own personalized recovery plan
+>
+> On our website, all of this is **$297 / month.**
+
+**Talk track:**
+"Let me show you what's actually inside. You get the Recovery Guides and video modules that
+walk you through solving just about every roadblock you'll hit. You get access to live
+coaching calls, where you learn directly from the coaches. You become part of a community of
+people who truly get it. And you get your own personalized recovery plan. If you go to our
+website right now, all of that is two hundred and ninety seven dollars a month. And
+honestly, even at two hundred and ninety seven, the value is a little crazy when you compare
+it to what's out there. That might be the cost of a single visit to your local doctor just
+to get a sick note, maybe. It's a couple of IV treatments that might help you feel better
+for a day or two. Here you're getting a full system and real, hands-on help, every single
+month."
+
+**Why it lands:** Anchors the price against the low-value, expensive things they have already been paying for.
+
+**Purpose:** Establish the $297 value anchor before the free reveal.
+
+---
+
+## Slide 12c: Your free gift today
+
+**On-slide copy:**
+> ### Your free gift today
+> Not $297.
+> Not even $1.
+> **7 days, completely free.**
+> No contract. Cancel anytime.
+
+**Talk track:**
+"But here's the thing. Because you showed up today, and because you've stuck around all the
+way to the end, it's not going to be two hundred and ninety seven dollars. Remember that
+free gift I mentioned right at the beginning? This is it. It's not even going to be one
+dollar. Not a single dollar. My gift to you today is this. You can join and get access to
+everything I just described, completely free, for seven days. Your spot is waiting for you
+right now. You don't pay anything, and if you don't like it, you just cancel. You're not
+tied to any contract. In fact, the number one thing people tell us afterward is that they
+wish they'd joined sooner, and that they couldn't quite believe how well it worked, almost
+like it was too good to be true. So we've made it simple. With a free trial, you have
+nothing to lose. We just want you to experience it for yourself."
+
+**Why it lands:** Removes all financial risk and pre-handles the "too good to be true" reaction with the same words clients use.
+
+**Purpose:** Reveal the free trial as a gift and dissolve the money objection.
+
+---
+
+## Slide 12d: How your 7 days work
+
+**On-slide copy:**
+> ### How your 7 days work
+> **Week 1:** jump straight into the community and the live group calls.
+> **If you stay:** complete your Nervous System Health Assessment and book a roadmap call with a coach to build your personalized 30-day plan.
+
+**Talk track:**
+"Let me be clear about how the seven days actually work, so there's no mystery. In your
+first week, you get to experience the community and the live group calls right away. You
+feel the support and you see how it all runs. If you decide to stay past that first week,
+that's when you complete your Nervous System Health Assessment, and you book a roadmap call
+with a coach. On that call, the two of you build a thirty day plan that's specific to you
+and your situation. So this isn't a stripped-down preview. You step straight into the real
+thing and decide for yourself if it's right for you."
+
+**Why it lands:** Makes the trial concrete and shows real, personalized value is waiting if they stay.
+
+**Purpose:** Set expectations for the trial week and the post-trial onboarding.
+
+---
+
+## Slide 12e: Only 150 free-trial spots
+
+**On-slide copy:**
+> ### Only 150 free-trial spots
+> Real coaching means we can only take a small group.
+> When the 150 spots are gone, or the timer runs out, it's back to $297 / month.
+> This is for action-takers ready to make recovery their #1 priority.
+>
+> Start your free trial: **link in the chat**
+
+**Talk track:**
+"Now a word of honesty about numbers. Because we provide real coaching and real support, we
+can only take a small group of people. So we're making this available for one hundred and
+fifty free-trial spots. The next one hundred and fifty people who join start free. Every
+spot after that is the regular two hundred and ninety seven a month, which, like I said, is
+still a genuinely strong value for the amount of hands-on help you get. One honest ask from
+me. Please don't start the trial just to poke around with no real intention of staying, even
+if you see great results. We built this for action-takers, people who are ready to commit
+and make recovery their number one priority right now. If that's you, check out the program,
+read what others have to say, and use the link I'm putting in the chat to start your free
+trial. Once the one hundred and fifty spots are taken, or the timer runs out, it goes back
+to two hundred and ninety seven. If you're serious about recovering, this is your moment."
+
+**Why it lands:** Genuine scarcity plus a commitment filter that attracts serious members and repels tire-kickers.
+
+**Purpose:** Drive immediate action with limited spots and qualify for committed members.
+
+---
+
+## Slide 13: Why start now
+
+**On-slide copy:**
+> ### Still functioning is exactly why now matters
 > You don't have to be bedridden to benefit.
-> The sooner the nervous system learns it's safe, the easier the dial is to turn.
+> The sooner your nervous system learns it's safe, the easier the dial is to turn.
+> And with a free week, starting costs you nothing.
 
 **Talk track:**
 "One thing I want to gently challenge. A lot of people wait until they're at their absolute
 worst before they reach for help, because they feel like they haven't earned it yet, or it
 isn't bad enough. You don't have to be bedridden to benefit from this. In fact, the fact
 that you're still functioning, even partially, is exactly why now is a good time, because
-there's more to work with. This isn't about pressure. It's just an honest nudge not to
-wait for things to get worse before you act."
+there's more to work with. This isn't about pressure. It's just an honest nudge not to wait
+for things to get worse before you act. And remember, the first week is free, so you're not
+really risking anything by starting now instead of later."
 
-**Purpose:** Counter the "I am not bad enough yet" and "I will wait and see" delays without
-fear mongering, using the brand's existing reframe.
+**Purpose:** Counter the "I am not bad enough yet" and "I will wait and see" delays, reinforced by the no-risk free week.
 
 ---
 
@@ -493,21 +602,22 @@ team-level proof and no guarantees.
 
 **On-slide copy:**
 > ### "Can I afford this?"
-> Apply first, then talk it through with the team.
-> There's no pressure, and the conversation itself costs you nothing.
+> The first 7 days are free, with no contract and cancel anytime.
+> After that it's $297 / month, a fraction of the consults, supplements, and tests that didn't move the needle.
 
 **Talk track:**
-"On cost, I'll be straightforward. The coaching program is an investment, and I'm not
-going to pretend otherwise. What I'd say is this. The application and the conversation
-that follows don't cost anything, and they don't commit you to anything. If money is tight,
-it's still worth applying and being honest with the team about your situation, because they
-can talk through what makes sense for you. The worst case is you have a helpful conversation
-and decide it's not the right time. That's a completely fine outcome."
+"On cost, I'll be straightforward. After the free week, the Academy is two hundred and
+ninety seven dollars a month, and I'm not going to pretend that's nothing. But look at what
+it replaces. Most people here have already spent far more than that on consultations,
+supplements, tests, and treatments that didn't really move the needle. This is a fraction of
+that, for a full system and real coaching. And the first seven days cost you nothing, with
+no contract, so you can feel whether it's worth it before you ever pay a cent. If money is
+genuinely tight, start the free week and be honest with the team, and they'll talk through
+what makes sense for you."
 
-**Why it lands:** Handles the financial objection transparently, matching the methodology's
-guidance on pricing and financial difficulty.
+**Why it lands:** Reframes the price against money already wasted, and the free week removes the upfront risk.
 
-**Purpose:** Lower the risk of the application step so cost does not silently kill conversions.
+**Purpose:** Dissolve the affordability objection using the free trial and a value comparison.
 
 ---
 
@@ -537,24 +647,44 @@ prescribes, without taking sides or diagnosing.
 ## Slide 19: Close
 
 **On-slide copy:**
-> ### The shift that matters most
-> You're not broken. From what we see, it's highly likely your system has learned to
-> overprotect you. And what's learned can be retrained.
+> ### From surviving to thriving
+> This is a free trial. There's no financial risk.
+> You either discover the tools that change everything, or you simply don't continue.
 >
-> If you want help applying this to your situation:
-> **cfsrecovery.co/apply**
+> Start your free trial: **link in the chat**
 
 **Talk track:**
-"Let me leave you with the heart of it. From everything the team sees, and assuming your
-medical tests have come back clear, you're very likely not broken. It's highly likely that
-your nervous system has simply learned to protect you a little too well. And here's the
-hopeful part. Anything that's learned can be retrained. That's what these five shifts are
-really about. Doing more of your life again, one steady step at a time, without the fear that
-it will cost you. If today helped, take these shifts and start using them. And if you want a
-hand applying them to your specific situation, go to cfsrecovery.co slash apply and see if you
-are a good fit. Thank you for spending this time with me. I really hope it helps."
+"Let me leave you with one question. When was the last time you gave yourself permission to
+believe that things could actually be different? Not I'll try this later when I have more
+energy. Not let me see if I feel better first. Not what if this is just another thing that
+doesn't work. But a clear decision, where you knew that even if recovery took longer than
+you wanted, you'd never look back and wish you hadn't started, because you finally got your
+life back. Regret never comes from trying to get better. It comes from hesitation. It comes
+from waiting for the perfect time that never arrives. It comes from watching months and
+years go by while you stay stuck in the same cycle, googling for answers, hoping someone
+will finally understand, praying your body will just figure it out on its own. But deep
+down, knowing that if other people have recovered, you're capable too. And that power starts
+with one decision. Just as you have the power to say no, you also have the power to say yes.
+Yes to your nervous system healing. Yes to trusting your body's ability to recover. Yes to
+finally having a clear path forward. And most of all, yes to yourself, because you deserve
+to feel alive again. Here's the thing. This is a free trial. There's literally no financial
+risk. You either discover the tools that change everything, or you simply don't continue.
+But if you walk away, a week from now, a month from now, a year from now, you might still be
+waking up exhausted, still managing symptoms instead of addressing the root cause, still
+wondering if recovery is even possible for you. The time is going to pass anyway, and you'll
+have to figure this out at some point. You can figure it out with us, or you can figure it
+out on your own, but you will have to figure it out, because it won't solve itself. So the
+real question isn't should I try this. It's this. Do you want to keep wondering what
+recovery could feel like, or do you want to find out? Make the decision your future self
+thanks you for. The one that gave yourself a real chance at getting your life back. The
+future self that thanks you for having the courage to believe that you're not broken, that
+your nervous system just needs the right support to heal. Today is the turning point. Where
+you go from surviving to thriving. From managing symptoms to addressing the root cause. From
+hoping things get better to actively making them better. That transformation begins the
+moment you click the link and start your free trial. Thank you for spending this time with
+me. I really hope it helps."
 
-**Purpose:** End on the core hopeful reframe and a single clear call to action.
+**Purpose:** End on the emotional turning-point reframe and a single clear call to action, the free trial.
 
 ---
 
@@ -587,4 +717,8 @@ This approach is meant to sit alongside good medical care, never to replace it."
 - Language self-check before going live: no em dashes or en dashes, no founder name, no
   "definitely / absolutely / 100% / exactly" about anyone's cause, no guarantees or
   timelines, every nervous system claim paired with "once tests have come back normal."
-- One call to action only: cfsrecovery.co/apply. Do not introduce competing links.
+- One call to action only: the 7-day free trial link (placeholder: cfsrecovery.co/trial),
+  dropped in the chat. Do not introduce competing links.
+- Offer facts to keep truthful and consistent: 150 free-trial spots, then the regular $297/month.
+  Scarcity and price are fine to state out loud; keep recovery-outcome language hedged, with no
+  guarantees or timelines.
