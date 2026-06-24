@@ -54,10 +54,11 @@ seen, and set the promise of the event.
 
 **On-slide copy:**
 > ### This is for you if...
-> - You feel okay, then overdo it, then pay for it for days
-> - You are scared to do more in case you crash
-> - You have tried resting and pacing and still get stuck
-> - You want your life back, not just a smaller, safer version of it
+> - You feel okay, push a little, then pay for it for days
+> - You're scared to do more in case you crash
+> - You've tried resting and pacing and you're still stuck
+> - Every test comes back "normal" but the symptoms are very real
+> - You want your life back, not a smaller, safer version of it
 
 **Talk track:**
 "This isn't about being more disciplined or pushing through harder. Most of you have
@@ -74,12 +75,12 @@ forever) have failed them, which opens them to a third way.
 ## Slide 3: What you will walk away with
 
 **On-slide copy:**
-> ### By the end of today you will understand
-> 1. Why you actually crash (it is not just the physical activity)
+> ### By the end of today you'll understand
+> 1. Why you actually crash (it's not just physical activity)
 > 2. The hidden inputs your body is reacting to
 > 3. How to expand activity from the middle, not the extremes
-> 4. What a dip really means, and how to respond so it does not spiral
-> 5. Why there is no magic number, and what to do instead
+> 4. What a dip really means, and how to respond so it doesn't spiral
+> 5. Why there's no magic number, and what to do instead
 
 **Talk track:**
 "By the end you'll have a completely different lens on activity. Right now activity
@@ -119,7 +120,7 @@ skepticism by welcoming it rather than fighting it.
 ## Slide 5: The push and crash cycle
 
 **On-slide copy:**
-> ### The cycle you are stuck in
+> ### The cycle you're stuck in
 > Feel a bit better → do more → crash → rest and recover → feel a bit better → do more → crash
 >
 > The harder you try to break out by pushing, the harder the crash.
@@ -149,7 +150,7 @@ the root cause, which sets up Shift 1.
 > ### To "I crash because my nervous system is in protection mode"
 > Symptoms are signals, not threats. The body is protecting, not breaking.
 >
-> **Analogy: a smoke alarm stuck on.** The alarm is real and loud, but the house is not on fire.
+> **Analogy: a smoke alarm stuck on.** The alarm is real and loud, but the house isn't on fire.
 
 **Talk track:**
 "Most people assume a crash is simple cause and effect. I walked too far, I used up my
@@ -211,7 +212,7 @@ cognitive load plus the role of the person's own response.
 > ### To "Expand from the gray area, in small, sustainable steps"
 > Recovery is a dimmer switch, not an on and off switch.
 >
-> **Analogy: a dimmer switch, not a light switch.** You turn the dial up slowly and leave it there. You do not flip from off to full blast.
+> **Analogy: a dimmer switch, not a light switch.** You turn the dial up slowly and leave it there. You don't flip from off to full blast.
 
 **Talk track:**
 "This is the one that changes how you actually increase activity. Most people live at the
@@ -240,7 +241,7 @@ from the middle rather than swinging between extremes.
 > ## Shift 4
 > ### From "A dip means I went backwards, so doing more is dangerous"
 > ### To "Adjustment periods are part of expanding, and your response decides what happens next"
-> A dip is not failure. It is your system recalibrating.
+> A dip isn't failure. It's your system recalibrating.
 >
 > **Analogy: a beach ball held underwater.** The harder you shove the dip down with fear, the harder it pops back up.
 
@@ -269,10 +270,10 @@ the inevitable dips and teaching that the response, not the dip, drives the outc
 **On-slide copy:**
 > ## Shift 5
 > ### From "I just need to find the magic amount of activity on my own"
-> ### To "Your strategy depends on where you are, and it is a learnable skill"
-> There is no universal right amount. There is the right amount for where your system is now.
+> ### To "Your strategy depends on where you are, and it's a learnable skill"
+> There's no universal right amount. There's the right amount for where your system is now.
 >
-> **Analogy: a map.** A map cannot give you directions until it knows where you are standing. Your next step depends on your starting point.
+> **Analogy: a map.** A map can't give you directions until it knows where you're standing. Your next step depends on your starting point.
 
 **Talk track:**
 "The last shift ties it together. People spend months hunting for the magic number. The
@@ -303,11 +304,11 @@ naturally opens the door to coaching without a hard sell.
 
 **On-slide copy:**
 > ### If you forget everything else, remember these 5 pictures
-> 1. **Smoke alarm stuck on** - the alarm is real, the house is not on fire
-> 2. **Guard dog that never sleeps** - it barks at the mailman, not just burglars
-> 3. **Dimmer switch, not a light switch** - turn the dial up slowly, do not flip to full blast
-> 4. **Beach ball underwater** - the harder you push the dip down with fear, the harder it pops back
-> 5. **A map** - you cannot get directions until it knows where you are standing
+> 1. **Smoke alarm stuck on**: the alarm is real, the house isn't on fire
+> 2. **Guard dog that never sleeps**: it barks at the mailman, not just burglars
+> 3. **Dimmer switch, not a light switch**: turn the dial up slowly, don't flip to full blast
+> 4. **Beach ball underwater**: the harder you push the dip down with fear, the harder it pops back
+> 5. **A map**: you can't get directions until it knows where you're standing
 
 **Talk track:**
 "I know that was a lot, and brain fog is real, so let me give you five pictures to hold onto.
@@ -353,7 +354,7 @@ on the what and why, withhold the personalized how, which drives applications.
 > Personalized 1-on-1 coaching that helps you find your zone and expand your activity safely,
 > with a plan built around you and support through the adjustment periods.
 >
-> See if you are a good fit: **cfsrecovery.co/apply**
+> See if you're a good fit: **cfsrecovery.co/apply**
 
 **Talk track:**
 "For people who want that personalized piece, the CFS Recovery team runs a coaching program
@@ -373,9 +374,9 @@ application based call to action that matches the brand's non pushy posture.
 ## Slide 13: Why apply now
 
 **On-slide copy:**
-> ### The fact that you are still functioning is exactly why now matters
-> You do not have to be bedridden to benefit.
-> The sooner the nervous system learns it is safe, the easier the dial is to turn.
+> ### The fact that you're still functioning is exactly why now matters
+> You don't have to be bedridden to benefit.
+> The sooner the nervous system learns it's safe, the easier the dial is to turn.
 
 **Talk track:**
 "One thing I want to gently challenge. A lot of people wait until they're at their absolute
@@ -397,7 +398,7 @@ fear mongering, using the brand's existing reframe.
 ## Slide 14: "Isn't this just saying it's all in my head?"
 
 **On-slide copy:**
-> ### "Are you saying it is all in my head?"
+> ### "Are you saying it's all in my head?"
 > No. Your symptoms are real and physical.
 > The nervous system lens looks at WHY your body keeps producing those real symptoms.
 
@@ -422,7 +423,7 @@ dismissing it, exactly as the methodology requires.
 ## Slide 15: "I have tried everything. How is this different?"
 
 **On-slide copy:**
-> ### "I have tried everything already"
+> ### "I've tried everything already"
 > Most approaches chase the symptoms.
 > This works on what may be driving them, the protective state itself.
 
@@ -446,7 +447,7 @@ against it.
 ## Slide 16: "I have been sick for years. Is it too late?"
 
 **On-slide copy:**
-> ### "I have been sick too long for this to work"
+> ### "I've been sick too long for this to work"
 > The nervous system stays adaptable.
 > People who were sick for many years have still learned this and changed their days.
 
@@ -470,7 +471,7 @@ team-level proof and no guarantees.
 **On-slide copy:**
 > ### "Can I afford this?"
 > Apply first, then talk it through with the team.
-> There is no pressure, and the conversation itself costs you nothing.
+> There's no pressure, and the conversation itself costs you nothing.
 
 **Talk track:**
 "On cost, I'll be straightforward. The coaching program is an investment, and I'm not
@@ -490,7 +491,7 @@ guidance on pricing and financial difficulty.
 ## Slide 18: "My doctors said different things"
 
 **On-slide copy:**
-> ### "I have had conflicting medical opinions"
+> ### "I've had conflicting medical opinions"
 > Both perspectives can hold pieces of the truth.
 > The key question: have the serious things been properly ruled out?
 
@@ -514,8 +515,8 @@ prescribes, without taking sides or diagnosing.
 
 **On-slide copy:**
 > ### The shift that matters most
-> You are not broken. From what we see, it is highly likely your system has learned to
-> overprotect you. And what is learned can be retrained.
+> You're not broken. From what we see, it's highly likely your system has learned to
+> overprotect you. And what's learned can be retrained.
 >
 > If you want help applying this to your situation:
 > **cfsrecovery.co/apply**
