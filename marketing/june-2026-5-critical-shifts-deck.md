@@ -1,0 +1,532 @@
+# 5 Critical Shifts for Recovery
+
+## June 2026 Virtual Event Pitch Deck
+
+**Theme:** How to increase your activity without triggering the push-and-crash cycle.
+
+**Goal of the event:** Teach the five mindset shifts that let people safely expand what
+they can do in daily life, then invite the right people to apply for the Recovery System.
+
+**How to read this file:** Each slide has three parts.
+- **On-slide copy** is the text that appears on the slide. Keep it short. People with
+  brain fog cannot process walls of text.
+- **Talk track** is what the presenter says out loud. It carries the story and answers a
+  real pain point or objection.
+- **Purpose** is the slide's job in the flow.
+
+**Voice and compliance reminders (hold these on every slide):**
+- No em dashes or en dashes anywhere. Use commas, periods, or "and."
+- Never name the founder. Say "the CFS Recovery team" or "the coaching team."
+- Never state causation as fact. Use "highly likely," "it sounds like," "from what we see."
+  Always pair any nervous system claim with "once your tests and scans have come back
+  normal and other things have been ruled out."
+- No guarantees, no timelines, no cure claims, no naming specific client outcomes.
+- Warm, grounded, peer to peer. Never clinical, never hype, never salesy.
+
+---
+
+## SECTION 1: OPEN
+
+---
+
+## Slide 1: Title and hook
+
+**On-slide copy:**
+> # 5 Critical Shifts for Recovery
+> ### How to do more of your life again without the push and crash cycle
+> CFS Recovery Live Workshop
+
+**Talk track:**
+"If you are here, there is a good chance you have lived this pattern. You have a good day,
+you finally feel a little more like yourself, so you do the dishes, you go for a short
+walk, you say yes to something you have missed. And then a day or two later it hits. The
+fatigue, the brain fog, the wired and tired feeling. You are back on the couch wondering
+what you did wrong. Over the next hour I am going to walk you through five shifts that
+change how you increase your activity, so that doing more stops costing you so much. You do
+not need a notebook. Just listen for the one or two that land for you."
+
+**Purpose:** Name the exact pattern the audience lives in the first 30 seconds so they feel
+seen, and set the promise of the event.
+
+---
+
+## Slide 2: Who this is for
+
+**On-slide copy:**
+> ### This is for you if...
+> - You feel okay, then overdo it, then pay for it for days
+> - You are scared to do more in case you crash
+> - You have tried resting and pacing and still get stuck
+> - You want your life back, not just a smaller, safer version of it
+
+**Talk track:**
+"This is not about being more disciplined or pushing through harder. Most of you have
+already tried that and it did not work. This is also not about resting forever and shrinking
+your life down to almost nothing. This is for the person stuck in the middle, who wants to
+expand what they can do but keeps getting punished for it. If that is you, you are in the
+right place."
+
+**Purpose:** Qualify the audience and pre-frame that both extremes (push through, rest
+forever) have failed them, which opens them to a third way.
+
+---
+
+## Slide 3: What you will walk away with
+
+**On-slide copy:**
+> ### By the end of today you will understand
+> 1. Why you actually crash (it is not just the physical activity)
+> 2. The hidden inputs your body is reacting to
+> 3. How to expand activity from the middle, not the extremes
+> 4. What a dip really means, and how to respond so it does not spiral
+> 5. Why there is no magic number, and what to do instead
+
+**Talk track:**
+"By the end you will have a completely different lens on activity. Right now activity
+probably feels like a gamble. You never quite know what you are going to get. By the end you
+will understand what is actually driving the crashes and how people learn to do more without
+that constant fear. Let us get into it."
+
+**Purpose:** Set a clear agenda so the brain-fog audience can follow, and create open loops
+for each shift.
+
+---
+
+## Slide 4: Quick credibility, then back to you
+
+**On-slide copy:**
+> ### Where this comes from
+> The CFS Recovery team has worked with over 1,500 people in 40+ countries.
+> Many had been sick for years, and had tried almost everything, before things started to change.
+
+**Talk track:**
+"A quick word on where this comes from, and then we get right back to you. Everything I am
+about to share comes from the CFS Recovery team's work with over 1,500 people across more
+than 40 countries. A lot of them had been dealing with this for years and had tried a long
+list of things before they saw movement. So if you are skeptical, that is completely fair,
+and you are in good company. I would rather you be skeptical and curious than desperate and
+gullible. Keep your skeptic hat on and just see if today makes sense to you."
+
+**Purpose:** Establish authority at the team level only (never the founder), and disarm
+skepticism by welcoming it rather than fighting it.
+
+---
+
+## SECTION 2: THE CORE PROBLEM
+
+---
+
+## Slide 5: The push and crash cycle
+
+**On-slide copy:**
+> ### The cycle you are stuck in
+> Feel a bit better → do more → crash → rest and recover → feel a bit better → do more → crash
+>
+> The harder you try to break out by pushing, the harder the crash.
+
+**Talk track:**
+"Here is the loop almost everyone here is living in. You feel a little better, so you do
+more. Then comes the crash. So you rest, you recover a bit, you feel better again, and you
+do more, and you crash again. Round and round. And the cruel part is that the more
+determined you are, the worse it can get, because the way most people try to break out of
+this loop is by pushing harder on the good days. We are going to flip that today. But first,
+the question nobody answers properly. Why do you crash at all?"
+
+**Purpose:** Make the central enemy concrete and visual, and create urgency to understand
+the root cause, which sets up Shift 1.
+
+---
+
+## SECTION 3: THE 5 CRITICAL SHIFTS
+
+---
+
+## Slide 6: Shift 1
+
+**On-slide copy:**
+> ## Shift 1
+> ### From "I crashed because I physically overdid it"
+> ### To "I crash because my nervous system is in protection mode"
+> Symptoms are signals, not threats. The body is protecting, not breaking.
+
+**Talk track:**
+"Most people assume a crash is simple cause and effect. I walked too far, I used up my
+energy, so now I am wiped out. If that were the whole story, then careful pacing would have
+fixed you by now. For a lot of you it has not. Here is what we see, and I want to be careful
+with how I say this because I am not a doctor and this is not a diagnosis. As long as your
+tests and scans have come back normal and your doctors have ruled other things out, what is
+very often going on is a nervous system that has gotten stuck in protection mode. Think of a
+smoke alarm that has started going off when there is no fire. The alarm is real, the sound
+is real, but the house is not burning. Your symptoms are real too. They are just signals
+from a system that is being overprotective, not proof that your body is broken. This matters
+because if the root is a protective nervous system, then only managing the physical side
+will never be enough on its own."
+
+**Why it lands:** Answers "why do I crash after doing normal things" and "I have tried
+everything and still crash." Reframes the body as protective, not broken.
+
+**Purpose:** Reframe the root cause so the rest of the shifts have a foundation. Establish
+that physical pacing alone is incomplete.
+
+---
+
+## Slide 7: Shift 2
+
+**On-slide copy:**
+> ## Shift 2
+> ### From "Activity equals physical exertion"
+> ### To "Your nervous system reacts to how safe something feels, not just how hard it is"
+> The same task can cost you nothing one day and wreck you the next.
+
+**Talk track:**
+"Here is something that confuses almost everyone. The exact same activity can be fine one
+day and flatten you the next. Same number of steps, same task, totally different result. If
+activity were only about physical effort, that would make no sense. But once you see that
+the nervous system is reacting to safety, it clicks. Your system is not just counting steps.
+It is reading everything. The stressful phone call before the walk. The worry about whether
+you will crash. The argument, the bad news, the deadline. To a protective nervous system,
+all of that is load. It is like a guard dog that never sleeps, reacting to every sound in
+the street, not just the real threats. So the goal is not only to do less physically. It is
+to help your system feel safer while you are active. How you respond to a symptom, with
+panic or with calm, is itself one of those inputs. That is why two people can do the same
+thing and only one of them crashes."
+
+**Why it lands:** Answers "the same activity wrecks me one day and not the next" and the
+fear of doing anything at all. Introduces Responding Well to Symptoms.
+
+**Purpose:** Break the simple effort equals payback model and introduce emotional and
+cognitive load plus the role of the person's own response.
+
+---
+
+## Slide 8: Shift 3
+
+**On-slide copy:**
+> ## Shift 3
+> ### From "Push hard on good days, collapse on bad days"
+> ### To "Expand from the gray area, in small, sustainable steps"
+> Recovery is a dimmer switch, not an on and off switch.
+
+**Talk track:**
+"This is the one that changes how you actually increase activity. Most people live at the
+extremes. On a good day they go all in, because who knows when the next good day will come.
+Then they crash and shut everything down. All or nothing. Up here or down there. The problem
+is that the push and crash cycle IS that all or nothing thinking, played out in your body.
+The way people break the cycle is by living in what we call the gray area. That is the middle
+ground between doing too much and doing too little. You expand in small steps that your
+system can actually accept, and you stop trying to win it all back in a single afternoon.
+A helpful way to start is the three foot world, which just means focusing on what is right in
+front of you and within your control today, instead of the whole mountain. Recovery is a
+dimmer switch, not a light switch. You are not flipping from off to on. You are slowly
+turning the dial up, and learning to leave it there."
+
+**Why it lands:** Answers "how do I increase activity without giving up my life" and "am I
+pushing too hard or not enough." Teaches the Gray Area and Three-Foot World.
+
+**Purpose:** Give the audience the central method for expansion, which is incremental growth
+from the middle rather than swinging between extremes.
+
+---
+
+## Slide 9: Shift 4
+
+**On-slide copy:**
+> ## Shift 4
+> ### From "A dip means I went backwards, so doing more is dangerous"
+> ### To "Adjustment periods are part of expanding, and your response decides what happens next"
+> A dip is not failure. It is your system recalibrating.
+
+**Talk track:**
+"As you start to expand, you will still have dips. I want to be honest about that so it does
+not scare you when it happens. We do not call these crashes. We call them adjustment periods,
+because that is what they are. Your system adjusting to a new level of activity. Here is the
+part that decides everything. When a dip comes, most people read it as proof that they went
+backwards and that doing more is dangerous. So they panic, they pull back hard, and they get
+scared to try again. And that fear and contraction is often what turns a small dip into a
+long crash. It is like a beach ball you are trying to hold underwater. The harder you push it
+down with fear, the harder it pushes back. When you can meet a dip calmly, as a normal part
+of adjusting, your system settles faster and you keep your overall progress. The dip is not
+the enemy. The panic about the dip is what costs you."
+
+**Why it lands:** Answers "I am doing everything right but still not improving" and "every
+time I do more I get punished." Reframes Adjustment Periods and ties back to responding well.
+
+**Purpose:** Remove the fear that keeps people from ever increasing activity, by reframing
+the inevitable dips and teaching that the response, not the dip, drives the outcome.
+
+---
+
+## Slide 10: Shift 5
+
+**On-slide copy:**
+> ## Shift 5
+> ### From "I just need to find the magic amount of activity on my own"
+> ### To "Your strategy depends on where you are, and it is a learnable skill"
+> There is no universal right amount. There is the right amount for where your system is now.
+
+**Talk track:**
+"The last shift ties it together. People spend months hunting for the magic number. The
+perfect amount of activity that will finally be safe. The truth is there is no universal
+number, because the right way to expand depends on where your nervous system is right now. We
+use a simple scale, from people who are mostly bedridden, to mostly housebound, to functional
+but still dealing with symptoms, to fully functional with very little. Someone at one end
+needs a completely different expansion strategy than someone at the other. Push a system that
+is deep in protection too fast and it pushes back. Baby a system that is almost ready and you
+stall. This is the good news though. None of this is about luck or willpower. It is a
+learnable skill. The brain and nervous system can adapt and rewire. People who had been sick
+for years, who were sure it was too late for them, have learned this and changed what their
+days look like. The reason it feels impossible to figure out alone is that you are inside it,
+and you cannot easily see your own pattern or your own zone. That is exactly where guidance
+makes the difference."
+
+**Why it lands:** Answers "been sick for years, is it too late," skepticism, and "nothing has
+worked for me." Introduces the PolyVagal Scale and neuroplasticity, and bridges to the offer.
+
+**Purpose:** Close the teaching by showing why a personalized strategy is needed, which
+naturally opens the door to coaching without a hard sell.
+
+---
+
+## SECTION 4: THE BRIDGE AND THE OFFER
+
+---
+
+## Slide 11: The bridge
+
+**On-slide copy:**
+> ### "Okay, I get it... but how do I apply this to ME?"
+> Understanding the shifts is the what and the why.
+> Knowing your zone and your next step is the how, for your specific situation.
+
+**Talk track:**
+"If you are sitting there thinking, this makes sense, but how do I actually apply it to my
+situation, that is exactly the right question. And it is the honest line between what a
+workshop like this can do and what it cannot. Today gives you the what and the why. The five
+shifts are true for everyone. But the how, how much you specifically should be doing, what
+zone you are in, what your first expansion looks like, that is different for every single
+person. That is the piece you cannot really get from a video or a free guide, because it has
+to be matched to you."
+
+**Purpose:** Create the natural conversion moment from the value-boundary strategy. Educate
+on the what and why, withhold the personalized how, which drives applications.
+
+---
+
+## Slide 12: The offer
+
+**On-slide copy:**
+> ### The Recovery System
+> Personalized 1-on-1 coaching that helps you find your zone and expand your activity safely,
+> with a plan built around you and support through the adjustment periods.
+>
+> See if you are a good fit: **cfsrecovery.co/apply**
+
+**Talk track:**
+"For people who want that personalized piece, the CFS Recovery team runs a coaching program
+called the Recovery System. In simple terms, it is one on one guidance that helps you figure
+out where you are, build an expansion plan that fits your situation, and have someone in your
+corner when the adjustment periods come, so you do not spiral back into fear. I am not going
+to push anyone. If today was helpful on its own, wonderful, take these shifts and use them.
+But if you want help applying them to your specific situation, the next step is simple. Go to
+cfsrecovery.co slash apply and see if you are a good fit. It is an application, because this
+works best when it is the right match on both sides."
+
+**Purpose:** Present the paid program as the answer to the how, with a low pressure,
+application based call to action that matches the brand's non pushy posture.
+
+---
+
+## Slide 13: Why apply now
+
+**On-slide copy:**
+> ### The fact that you are still functioning is exactly why now matters
+> You do not have to be bedridden to benefit.
+> The sooner the nervous system learns it is safe, the easier the dial is to turn.
+
+**Talk track:**
+"One thing I want to gently challenge. A lot of people wait until they are at their absolute
+worst before they reach for help, because they feel like they have not earned it yet, or it
+is not bad enough. You do not have to be bedridden to benefit from this. In fact, the fact
+that you are still functioning, even partially, is exactly why now is a good time, because
+there is more to work with. This is not about pressure. It is just an honest nudge not to
+wait for things to get worse before you act."
+
+**Purpose:** Counter the "I am not bad enough yet" and "I will wait and see" delays without
+fear mongering, using the brand's existing reframe.
+
+---
+
+## SECTION 5: OBJECTIONS AND Q&A
+
+---
+
+## Slide 14: "Isn't this just saying it's all in my head?"
+
+**On-slide copy:**
+> ### "Are you saying it is all in my head?"
+> No. Your symptoms are real and physical.
+> The nervous system lens looks at WHY your body keeps producing those real symptoms.
+
+**Talk track:**
+"This is the most important objection and it deserves a real answer, not a dodge. There are
+legitimate concerns in the ME and CFS community about approaches that frame this as purely
+psychological or just think positive. That frustration is valid. So let me be clear. Nothing
+today is saying your symptoms are imaginary or that you just need a better attitude. Your
+symptoms are real and physical. The fatigue is real. The pain is real. What the nervous
+system lens adds is a look at why a body keeps producing those real, physical symptoms even
+when the tests come back normal. It is not a replacement for medical care. It sits alongside
+it. And if this approach is not for you, that is completely okay. The most important thing is
+that you find what actually helps you."
+
+**Why it lands:** Directly handles the ME/CFS biomedical controversy with respect, never
+dismissing it, exactly as the methodology requires.
+
+**Purpose:** Neutralize the single most credibility-threatening objection in the room.
+
+---
+
+## Slide 15: "I have tried everything. How is this different?"
+
+**On-slide copy:**
+> ### "I have tried everything already"
+> Most approaches chase the symptoms.
+> This works on what may be driving them, the protective state itself.
+
+**Talk track:**
+"If you have tried a long list of things and you are still here, it makes complete sense to
+be skeptical. Here is one way to think about why so many things have not worked. A lot of
+treatments go after each symptom one at a time. The fatigue, the sleep, the pain, the gut.
+Useful, but it is like mopping the floor while the tap is still running. The shifts today are
+about the tap, the protective state the nervous system may be stuck in. That is a different
+target. It does not mean everything you tried was useless. It means there may have been a
+missing piece, and for a lot of people this is that piece."
+
+**Why it lands:** Answers "I have tried everything, how is this different" by explaining why
+prior approaches treated symptoms rather than the root.
+
+**Purpose:** Reframe past failures so they become evidence FOR the approach rather than
+against it.
+
+---
+
+## Slide 16: "I have been sick for years. Is it too late?"
+
+**On-slide copy:**
+> ### "I have been sick too long for this to work"
+> The nervous system stays adaptable.
+> People who were sick for many years have still learned this and changed their days.
+
+**Talk track:**
+"A lot of people quietly believe they are the exception. Too far gone, sick too long, too
+complicated. I understand why it feels that way. But the nervous system stays adaptable. The
+ability to learn and rewire does not have an expiry date. The CFS Recovery team has worked
+with people who had been dealing with this for five, ten, even more than fifteen years before
+they started to see things shift. I cannot promise you a timeline or a specific result,
+nobody honest can. But being sick for a long time does not put you out of the running."
+
+**Why it lands:** Answers "is it too late" and "nothing has worked for me" with general,
+team-level proof and no guarantees.
+
+**Purpose:** Remove the hopelessness objection that stops long-term sufferers from applying.
+
+---
+
+## Slide 17: "What about the cost?"
+
+**On-slide copy:**
+> ### "Can I afford this?"
+> Apply first, then talk it through with the team.
+> There is no pressure, and the conversation itself costs you nothing.
+
+**Talk track:**
+"On cost, I will be straightforward. The coaching program is an investment, and I am not
+going to pretend otherwise. What I would say is this. The application and the conversation
+that follows do not cost anything, and they do not commit you to anything. If money is tight,
+it is still worth applying and being honest with the team about your situation, because they
+can talk through what makes sense for you. The worst case is you have a helpful conversation
+and decide it is not the right time. That is a completely fine outcome."
+
+**Why it lands:** Handles the financial objection transparently, matching the methodology's
+guidance on pricing and financial difficulty.
+
+**Purpose:** Lower the risk of the application step so cost does not silently kill conversions.
+
+---
+
+## Slide 18: "My doctors said different things"
+
+**On-slide copy:**
+> ### "I have had conflicting medical opinions"
+> Both perspectives can hold pieces of the truth.
+> The key question: have the serious things been properly ruled out?
+
+**Talk track:**
+"Some of you have had one doctor say it is serious and another say there is nothing wrong,
+and it leaves you not knowing who to believe. That is one of the hardest parts of all this. I
+am not going to take sides or tell you which doctor is right. What I will say is that the key
+question is whether the serious things have been properly ruled out with real testing. If they
+have, that is actually good news, even if it does not feel like it, because it means what is
+left is much more likely to be the kind of nervous system pattern we have been talking about.
+Always keep your medical team in the loop. This works alongside them, not instead of them."
+
+**Why it lands:** Handles the conflicting-doctors pain point exactly as the methodology
+prescribes, without taking sides or diagnosing.
+
+**Purpose:** Resolve the confusion that keeps medically-bounced people from committing.
+
+---
+
+## Slide 19: Close
+
+**On-slide copy:**
+> ### The shift that matters most
+> You are not broken. From what we see, it is highly likely your system has learned to
+> overprotect you. And what is learned can be retrained.
+>
+> If you want help applying this to your situation:
+> **cfsrecovery.co/apply**
+
+**Talk track:**
+"Let me leave you with the heart of it. From everything the team sees, and assuming your
+medical tests have come back clear, you are very likely not broken. It is highly likely that
+your nervous system has simply learned to protect you a little too well. And here is the
+hopeful part. Anything that is learned can be retrained. That is what these five shifts are
+really about. Doing more of your life again, one steady step at a time, without the fear that
+it will cost you. If today helped, take these shifts and start using them. And if you want a
+hand applying them to your specific situation, go to cfsrecovery.co slash apply and see if you
+are a good fit. Thank you for spending this time with me. I really hope it helps."
+
+**Purpose:** End on the core hopeful reframe and a single clear call to action.
+
+---
+
+## Slide 20: Medical disclaimer
+
+**On-slide copy:**
+> ### Please remember
+> This workshop is educational and is not medical advice. It is not a diagnosis and not a
+> replacement for your healthcare provider. Always consult a qualified professional for
+> medical decisions, and make sure other conditions have been ruled out with proper testing.
+
+**Talk track:**
+"Last thing, and it matters. Everything today is educational. It is not medical advice, it is
+not a diagnosis, and it is not a replacement for your own doctors. Please keep working with
+your healthcare team, and make sure other things have been properly checked and ruled out.
+This approach is meant to sit alongside good medical care, never to replace it."
+
+**Purpose:** Close the liability loop required by the methodology, on screen and out loud.
+
+---
+
+## Presenter notes (not slides)
+
+- Pacing: aim for roughly 8 to 12 minutes per shift if running a full hour, leaving 10 to 15
+  minutes for the offer and live Q&A. The objection slides 14 to 18 can be used proactively
+  or pulled up live as questions come in.
+- Engagement: after Slide 5 and after each shift, ask the audience to type in chat whether
+  that pattern sounds familiar. The "yes, that's me" moments build belief better than more
+  teaching.
+- Language self-check before going live: no em dashes or en dashes, no founder name, no
+  "definitely / absolutely / 100% / exactly" about anyone's cause, no guarantees or
+  timelines, every nervous system claim paired with "once tests have come back normal."
+- One call to action only: cfsrecovery.co/apply. Do not introduce competing links.
