@@ -148,6 +148,8 @@ the root cause, which sets up Shift 1.
 > ### From "I crashed because I physically overdid it"
 > ### To "I crash because my nervous system is in protection mode"
 > Symptoms are signals, not threats. The body is protecting, not breaking.
+>
+> **Analogy: a smoke alarm stuck on.** The alarm is real and loud, but the house is not on fire.
 
 **Talk track:**
 "Most people assume a crash is simple cause and effect. I walked too far, I used up my
@@ -177,6 +179,8 @@ that physical pacing alone is incomplete.
 > ### From "Activity equals physical exertion"
 > ### To "Your nervous system reacts to how safe something feels, not just how hard it is"
 > The same task can cost you nothing one day and wreck you the next.
+>
+> **Analogy: a guard dog that never sleeps.** It barks at the mailman, not just at burglars, so it reacts to everything, not only real danger.
 
 **Talk track:**
 "Here is something that confuses almost everyone. The exact same activity can be fine one
@@ -206,6 +210,8 @@ cognitive load plus the role of the person's own response.
 > ### From "Push hard on good days, collapse on bad days"
 > ### To "Expand from the gray area, in small, sustainable steps"
 > Recovery is a dimmer switch, not an on and off switch.
+>
+> **Analogy: a dimmer switch, not a light switch.** You turn the dial up slowly and leave it there. You do not flip from off to full blast.
 
 **Talk track:**
 "This is the one that changes how you actually increase activity. Most people live at the
@@ -235,6 +241,8 @@ from the middle rather than swinging between extremes.
 > ### From "A dip means I went backwards, so doing more is dangerous"
 > ### To "Adjustment periods are part of expanding, and your response decides what happens next"
 > A dip is not failure. It is your system recalibrating.
+>
+> **Analogy: a beach ball held underwater.** The harder you shove the dip down with fear, the harder it pops back up.
 
 **Talk track:**
 "As you start to expand, you will still have dips. I want to be honest about that so it does
@@ -263,6 +271,8 @@ the inevitable dips and teaching that the response, not the dip, drives the outc
 > ### From "I just need to find the magic amount of activity on my own"
 > ### To "Your strategy depends on where you are, and it is a learnable skill"
 > There is no universal right amount. There is the right amount for where your system is now.
+>
+> **Analogy: a map.** A map cannot give you directions until it knows where you are standing. Your next step depends on your starting point.
 
 **Talk track:**
 "The last shift ties it together. People spend months hunting for the magic number. The
@@ -272,7 +282,9 @@ use a simple scale, from people who are mostly bedridden, to mostly housebound, 
 but still dealing with symptoms, to fully functional with very little. Someone at one end
 needs a completely different expansion strategy than someone at the other. Push a system that
 is deep in protection too fast and it pushes back. Baby a system that is almost ready and you
-stall. This is the good news though. None of this is about luck or willpower. It is a
+stall. Think of it like a map. A map cannot give you directions until it knows where you are
+standing. The right next step is different depending on your starting point, and that is hard
+to read from the inside. This is the good news though. None of this is about luck or willpower. It is a
 learnable skill. The brain and nervous system can adapt and rewire. People who had been sick
 for years, who were sure it was too late for them, have learned this and changed what their
 days look like. The reason it feels impossible to figure out alone is that you are inside it,
@@ -284,6 +296,28 @@ worked for me." Introduces the PolyVagal Scale and neuroplasticity, and bridges 
 
 **Purpose:** Close the teaching by showing why a personalized strategy is needed, which
 naturally opens the door to coaching without a hard sell.
+
+---
+
+## Slide 10b: The 5 pictures to remember
+
+**On-slide copy:**
+> ### If you forget everything else, remember these 5 pictures
+> 1. **Smoke alarm stuck on** - the alarm is real, the house is not on fire
+> 2. **Guard dog that never sleeps** - it barks at the mailman, not just burglars
+> 3. **Dimmer switch, not a light switch** - turn the dial up slowly, do not flip to full blast
+> 4. **Beach ball underwater** - the harder you push the dip down with fear, the harder it pops back
+> 5. **A map** - you cannot get directions until it knows where you are standing
+
+**Talk track:**
+"I know that was a lot, and brain fog is real, so let me give you five pictures to hold onto.
+You do not have to remember the science. Just remember these. A smoke alarm stuck on. A guard
+dog that never sleeps. A dimmer switch, not a light switch. A beach ball underwater. And a
+map that needs to know where you are standing. If only one of these stuck with you today,
+that is enough. That one picture can change how you handle the next good day."
+
+**Purpose:** Lock in retention for an analogy-driven, low-bandwidth audience by recapping all
+five images together as a single visual mnemonic before the transition to the offer.
 
 ---
 
